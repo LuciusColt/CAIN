@@ -38,7 +38,16 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+  title: "Explorer",
+  folderClickBehavior: "collapse",
+  folderDefaultState: "open",                // ← This makes folders expanded by default
+  useSavedState: true,                       // optional: whether to respect previous state
+  sortFn: /* … */,
+  filterFn: /* … */,
+  mapFn: /* … */,
+  order: ["filter", "map", "sort"],
+}),
   ],
   right: [
     Component.Graph(),
