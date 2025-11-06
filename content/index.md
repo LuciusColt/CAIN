@@ -1,7 +1,6 @@
 ---
 title: ▽ AS ABOVE, SO BELOW
 ---
-
 # 🗂️ CAIN Archives — Classified
 
 > “Knowledge is containment. Observation is control.”
@@ -36,9 +35,9 @@ The CAIN Archives serve as a living record of our tabletop sessions:
 ## 🔗 Quick Links
 
 - [[Rules & Mechanics]](#)
-- [[Character Logs]](#)
-- [[Defiances]](#)
-- [[Agendas]](#)
+- [[Link 2]](#)
+- [[Link 3]](#)
+- [[Link 4]](#)
 
 ---
 
