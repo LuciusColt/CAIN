@@ -88,12 +88,6 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-
-      // 🧭 Explorer - expands all folders by default
-      Plugin.Explorer({
-        openAll: true,
-      }),
-
       // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
     ],
