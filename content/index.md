@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: ▽ AS ABOVE, SO BELOW
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Hi, I’m Lucian 👋
+Welcome to my digital garden.  
+Here I collect notes, fragments, and Executioner logs.

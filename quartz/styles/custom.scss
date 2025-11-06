@@ -1,3 +1,50 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+@use "./variables.scss" as *;
+
+/* -------------------------------------------------
+   🎨 Theme Colors
+   ------------------------------------------------- */
+
+:root {
+  --background: #fdfbf7;     /* light cream */
+  --text: #1a1a1a;
+  --bold-text: #d32f2f;
+  --link: #d32f2f;
+  --link-hover: #ff5252;
+}
+
+[saved-theme="dark"] {
+  --background: #1c1c1c;
+  --text: #eaeaea;
+  --bold-text: #ff6b6b;
+  --link: #ff6b6b;
+  --link-hover: #ff8c8c;
+}
+
+/* -------------------------------------------------
+   🔤 Text & Links
+   ------------------------------------------------- */
+
+body {
+  background-color: var(--background);
+  color: var(--text);
+}
+
+b,
+strong {
+  color: var(--bold-text);
+}
+
+a {
+  color: var(--link);
+  text-decoration: none;
+  font-weight: $semiBoldWeight;
+
+  &:hover {
+    color: var(--link-hover);
+    text-decoration: underline;
+  }
+}
