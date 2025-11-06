@@ -45,7 +45,7 @@ Facilities provide scheduled access to sanitation and grooming under observation
 * **Haircuts**: Every two weeks, or upon request within regulation limits.
 * **Shaving / Hygiene**: Razors are single-use, issued during supervised intervals, and immediately collected.
 Hair may be styled or grown within reasonable limits, provided it does not obstruct facial identification scans or interfere with simulation training gear.
->[[Lucian]], for example, maintains medium-length hair swept aside, as recorded in profile [[public/CAIN-LORE/Archives-🗂️/Miscellaneous-Info-🎲/Photos-🎥/X072–VIS–PHOT–04.png]]. Despite this, post-training reports note temporary hair elongation during resonance events — tolerated under exemption clause 12-C.
+>[[Lucian]], for example, maintains medium-length hair swept aside, as recorded in profile [[public/DATABASE/Archives-🗂️/Miscellaneous-Info-🎲/Photos-🎥/X072–VIS–PHOT–04.png]]. Despite this, post-training reports note temporary hair elongation during resonance events — tolerated under exemption clause 12-C.
 
 ##### **IV. REPLACEMENT & MAINTENANCE**
 Uniforms are recycled and refitted in the L-2 Fabrication Ward, where low-risk residents assist in repair and cleaning under supervision.
