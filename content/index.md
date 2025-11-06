@@ -13,10 +13,10 @@ Welcome to the official **CAIN Archives**, the repository of all known informati
 
 The archives are organized into multiple sections for your perusal:
 
-- **[Rules & Mechanics](#)** — Core gameplay systems, house rules, and procedural references.
-- **[Character Logs](#)** — Detailed dossiers of all current and past operatives, including anomalies and behavioral observations.
-- **[Lore Tablets](#)** — Historical accounts, field reports, and incident documentation.
-- **[Experimental Notes](#)** — Research files, anomalies, and unreleased findings.
+- **[[Rules & Mechanics]]** — Core gameplay systems, house rules, and procedural references.
+- **[[Character Logs]]** — Detailed dossiers of all current and past operatives, including anomalies and behavioral observations.
+- **[[Lore Tablets]]** — Historical accounts, field reports, and incident documentation.
+- **[[Case Files]]** — Research files, anomalies, and unreleased findings.
 
 > ⚠️ Warning: Certain entries are restricted. Some documents may induce minor psychological effects if read outside of sanctioned sessions.
 
@@ -26,9 +26,9 @@ The archives are organized into multiple sections for your perusal:
 
 The CAIN Archives serve as a living record of our tabletop sessions:
 
-1. **Reference:** Ensure all players and staff have access to the latest rules and character updates.
-2. **Continuity:** Preserve storylines, anomalies, and major events across sessions.
-3. **Immersion:** Maintain the atmosphere of a classified research facility for enhanced gameplay.
+1. **Reference**: Ensure all players and staff have access to the latest rules and character updates.
+2. **Continuity**: Preserve storylines, anomalies, and major events across sessions.
+3. **Immersion**: Maintain the atmosphere of a classified research facility for enhanced gameplay.
 
 ---
 

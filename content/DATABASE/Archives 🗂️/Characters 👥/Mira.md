@@ -12,7 +12,7 @@
 ##### **I. BASIC INFORMATION**
 **Name**: Mira ██████
 **Aliases**:
-* "Sculpture of Rebellion" (informal, liked)
+* "Sculptor of Rebellion" (informal, liked)
 
 **Age**: 20
 **Height**: 5’6”
@@ -25,7 +25,7 @@
 **Defiance Type**: ARDENCE
 
 **Current Registry Portrait — CASTLE Archives**:
-![[public/CAIN-LORE/Archives-🗂️/Miscellaneous-Info-🎲/Photos-🎥/X017—VIS—PHOT—05.png]]
+![[public/DATABASE/Archives-🗂️/Miscellaneous-Info-🎲/Photos-🎥/X017–VIS–PHOT–05.png]]
 
 ##### **II. DISCOVERY**
 Mira came to CAIN’s attention approximately 3 years prior, following an anomalous homicide during a private art gallery exhibition in ████████.
