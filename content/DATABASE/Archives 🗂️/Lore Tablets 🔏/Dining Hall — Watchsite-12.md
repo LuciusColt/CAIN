@@ -1,7 +1,3 @@
----
-aliases:
-  - "[Watchsite-12]"
----
 ### **COMMUNAL DINING FACILITY (“THE GARDEN TABLE”)**
 ---
 ###### ***🜃 “As Above, So Below.”***
