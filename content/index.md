@@ -35,9 +35,9 @@ The CAIN Archives serve as a living record of our tabletop sessions:
 ## 🔗 Quick Links
 
 - [[Rules & Mechanics]](#)
-- [[Link 2]](#)
-- [[Link 3]](#)
-- [[Link 4]](#)
+- [[Watchsite-12]](#)
+- [[Agenda]](#)
+- [[Defiance]](#)
 
 ---
 

@@ -17,36 +17,32 @@
 **Age**: 20
 **Height**: 5’6”
 **Weight**: 132 lbs
-**Hair**: Brown (typically in ponytail)
+**Hair**: Brown (in twin-ponytail)
 **Eyes**: Brown
-**Skin**: Pale with freckling
 
 **XID**: *X017*
 
 **Defiance Type**: ARDENCE
 
 **Current Registry Portrait — CASTLE Archives**:
-![[X017—VIS—PHOT—05.png]]
+![[public/CAIN-LORE/Archives-🗂️/Miscellaneous-Info-🎲/Photos-🎥/X017—VIS—PHOT—05.png]]
 
 ##### **II. DISCOVERY**
 Mira came to CAIN’s attention approximately 3 years prior, following an anomalous homicide during a private art gallery exhibition in ████████.
 The event coincided with a localized blackout and a surge of psychic resonance consistent with TOAD-class manifestations. The anomaly—later confirmed as a weak CAT 1 TOAD—had emerged from Mira’s suppressed resentment and the desire to reclaim recognition for stolen artistic work.
 
 The TOAD killed her employer, a renowned sculptor who had publicly taken credit for years of her work. Local authorities investigating the scene reported “temperature distortion,” “melting marble,” and “unseen force vibrations.”
-CAIN Executioners, deployed under cover as detectives, intercepted Mira within a nearby storage facility. The ensuing engagement lasted several hours and resulted in multiple personnel developing short-term sickness from residual psychic afterburn.
+CAIN Executioners, deployed under the cover of detectives, intercepted Mira within a nearby storage facility. The ensuing engagement lasted several hours and resulted in multiple personnel developing short-term sickness from residual psychic afterburn.
 
-Mira’s Anomaly was neutralized during containment; she was subsequently sedated and transferred under authorization of ████████████ to Watchsite-12 for rehabilitation and observation.
+Mira’s Anomaly was neutralized during containment; she was subsequently sedated and transported under authorization of ████████████ to [[Watchsite-12]] for rehabilitation and observation.
 
 ##### **III. ANOMALY MANIFESTATION DETAILS**
-**Designation**: CAT 1
+**Designation**: CAT 1 — EMERALD MIRROR
 **Manifestation Type**: Defiance / Ardence (Heat Manipulation and Temperature Flux)
 **Host Object**: None (manifested through subject’s body and weapon conduit)
-
 **Description**:
 Mira’s Defiance manifests as volatile control over molecular thermal states, allowing rapid alternation between freezing and plasma-level temperatures.
 CAIN has issued her a reinforced rod of composite metal alloys engineered to withstand extreme temperature variance. Under activation, the rod reshapes into a large axe, wreathed in psychic flame or cryogenic frost depending on her focus.
-
-
 **During activation, the subject exhibits**:
 * Subdermal luminescence in arms and hands (reddish-orange glow)
 * Visible psychic “flame-wicking” from forearms

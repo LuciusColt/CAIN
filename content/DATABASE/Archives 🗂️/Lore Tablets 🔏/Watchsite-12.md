@@ -30,11 +30,10 @@ Although sealed under kilometers of ice, Watchsite-12 maintains a steady 21 °C 
 Inside the Garden, living trees grow in hydroponic soil; shallow streams run through transparent channels. This space doubles as both psychological rehabilitation area and observation habitat — the air is subtly laced with mood-stabilizing pheromones.
 Lighting cycles simulate natural day/night to counteract polar insomnia. At “night,” the ceiling glass dims to reveal the Antarctic sky. 
 >For more information on what facilities Watchsite-12 has;
->See [[Living Quarters — CAIN Watchsite-12]].
->See [[Dining Hall — CAIN Watchsite-12]].
->See [[Library — CAIN Watchsite-12]].
->See [[Recreation & Quiet Hours — CAIN Watchsite-12]].
->See [[Virtual Environments — CAIN Watchsite-12]].
+>See [[Dining Hall — Watchsite-12]].
+>See [[Library — Watchsite-12]].
+>See [[Recreation & Quiet Hours — Watchsite-12]].
+>See [[Virtual Environments — Watchsite-12]].
 
 ##### **III. POPULATION AND DEPARTMENTS**
 **Total Personnel**: ~400 active (not including subjects).
@@ -82,13 +81,40 @@ Lighting cycles simulate natural day/night to counteract polar insomnia. At “n
 * Has been observed conversing quietly in the greenhouse after midnight.
 * Displays empathy toward low-risk detainees; reprimanded twice for unsupervised contact.
 
+##### **IV. DAILY LIFE OF EXECUTIONER MIRA (b)**
+**Status**: Resident / Conditional Agent in Training  
+**Privileges**: Limited movement within L-2 through L-4. Monitored at all times via biosensor.
+> Below is [[Mira]]’s typical weekday itinerary:
+
+|**Time (UTC)**|**Activity**|**Notes**|
+|---|---|---|
+|**06:00**|Wake / Vital Scan|Morning vitals check and biosensor calibration. AI announces, “Good morning, Candidate.”|
+|**06:30–07:15**|Physical Conditioning|Runs along the mirrored tracks or engages in agility drills. Prefers solo exercises over sparring.|
+|**07:30**|Communal Breakfast|Mirror Garden cafeteria. Speaks minimally; maintains eye contact with peers only when addressed. Conversations recorded.|
+|**08:00–10:00**|Simulation Training|Holographic anomalies and combat drills. Rarely escalates Object 12-C usage; biofeedback shows controlled stress levels.|
+|**10:15–11:00**|Therapy Session|One-on-one with Dr. Hart. Focus on impulse control and emotional regulation. Occasionally requested “silent reflection” sessions.|
+|**11:15–13:00**|Free Study / Library Access|Two-story reading room. Mira prefers tactical manuals, historical records, and psychological case studies over fiction.|
+|**13:00–13:30**|Lunch / Social Period|Minimal social engagement; communicates mostly through brief, precise remarks.|
+|**14:00–16:00**|Cognitive Conditioning|Tasks involve pattern recognition, anomaly classification, and ethical decision-making scenarios. Highly attentive but critical.|
+|**16:15–18:00**|Assigned Duties|Lab assistance, anomaly cataloging, and occasionally supervised interactions with new arrivals. Prefers observational roles.|
+|**18:30–19:00**|Dinner|Communal; dietary supplements mandatory. Often sits at the same isolated table near reflective windows.|
+|**19:30–22:00**|Recreational Hours|Mirror Garden walks, sketching technical diagrams, or silent meditation. Rarely engages in chess.|
+|**22:00**|Curfew / Reflection Period|Personal quarters lock at 22:05. Lights dim; Mira often records brief logs of observations or reflections in encrypted journal.|
+
+**Weekends**: Optional observation of live anomaly demonstrations or training seminars; prefers solitary reflection over group activities.
+
+**Behavioral Notes**:
+- Monitored for “hyper-focusing episodes” during study and simulation.
+- Exhibits meticulous record-keeping habits; logs are considered unusually precise.
+- Has occasionally shadowed Lucian during outdoor observation periods, though interaction is minimal.
+
 ##### **V. CULTURE AND PSYCHOLOGY**
 Life inside Watchsite-12 is paradoxical: Residents describe it as *“a terrarium of life inside a tomb of ice.”*
 * **Executioner Trainees** often form close friendships through shared isolation. Friendships aren't ideal, neither are rivalries, both are kept in check by enforced professionalism.
 * **Researchers** exhibit signs of long-term sensory adaptation: pallor, circadian drift, obsession with cataloguing dreams.
 * **Guards** seldom speak; rumor says they rotate out every 60 days to prevent emotional freeze.
 Entertainment consists of chess, cards, music, archived films, and the communal practice of watching the aurora when the storms clear. The facility holds unofficial traditions — trading handmade trinkets, leaving folded paper cranes in the greenhouse pond “for luck.”
-> For more information on the Attire, Hair, Grooming, and Life inside Watchsite-12, see [[Personal Care — CAIN Watchsite-12]].
+> For more information on the Attire, Hair, Grooming, and Life inside Watchsite-12, see [[Personal Care — Watchsite-12]].
 
 ##### **VI. SECURITY AND SECRETS**
 * Every corridor has a mirrored observation panel. The official explanation: *“To study reflective response in isolation.”* Unofficially, they are believed to allow command to monitor emotional states.
@@ -101,3 +127,4 @@ Despite its location, the base is comfortable:
 * Bedrooms are warm, furnished simply with dull polymer furniture and a personal viewport to the ice.
 * Food grown hydroponically in the Garden tastes “too clean.”
 * The air hums faintly from geothermal vents.
+>For more information on the living conditions inside Watchsite-12, see [[Living Quarters — Watchsite-12]].
