@@ -6,7 +6,7 @@
 
 **CLEARANCE REQUIRED**: Level 4 (CAIN Internal Use Only)
 
-**FILE NO**.: CAIN-██-L-07
+**FILE NO.**: CAIN-██-L-07
 
 **SUBJECT DESIGNATION**: Lucian ██████
 

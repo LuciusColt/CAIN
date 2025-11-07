@@ -14,3 +14,6 @@ If you wish to understand another agent’s Agenda, or verify the conditions of 
 Do not edit or remove entries unless authorized by Command.  
 Unverified alterations will result in a full audit by Internal Oversight.
 > _Agendas define the power within — and the corruption beneath._
+
+### **Known Agenda**
+[[Firebug]]
