@@ -16,4 +16,19 @@ Unverified alterations will result in a full audit by Internal Oversight.
 > _Agendas define the power within — and the corruption beneath._
 
 ### **Known Agenda**
+[[Beast]]
+[[Doomed]]
+[[Drunk Driver]]
 [[Firebug]]
+[[Guardian]]
+[[Hardline]]
+[[Loner]]
+[[Machine]]
+[[Magician]]
+[[Moth]]
+[[Pants Peer]]
+[[Shadow]]
+[[Songbird]]
+[[Survivor]]
+[[Temperance]]
+[[Torch]]
