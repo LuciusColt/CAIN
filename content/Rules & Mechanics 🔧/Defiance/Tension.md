@@ -7,6 +7,9 @@ title: "[ TENSION ]"
 
 >Fact: Tension users are highly likely to experience ‘locked in’ syndrome episodes at least semi-regularly until they are able to master their powers. See field manual.
 
+**IRON SOUL**  
+*Passive: When you would fill up your damage tag and gain an injury, roll 1d6. On a 4+, go to 1 damage under maximum instead and ignore any excess, then lose the use of this passive until you rest.*  
+
 **AEGIS**  
 *Instant, Short*  
 Once a scene, when you or a visible ally in short range of you would mark damage from external harm, you can intervene by answering the following questions:  

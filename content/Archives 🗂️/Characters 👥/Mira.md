@@ -25,7 +25,6 @@
 **Defiance Type**: ARDENCE
 
 **Current Registry Portrait — CASTLE Archives**:
-
 ![[X017–VIS–PHOT–05.png]]
 
 ##### **II. DISCOVERY**

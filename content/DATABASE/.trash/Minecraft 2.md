@@ -1,1 +1,0 @@
-Lore about Minecraft
