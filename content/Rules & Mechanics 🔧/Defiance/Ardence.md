@@ -10,7 +10,7 @@ title: "[ ARDENCE ]"
 **INNER FURNACE**  
 *Passive: You can take an Unstable Power hook as part of using any Ardence power to increase the CAT of the power up to +2. When the hook fills up, you burn up from the inside, gaining an injury and ending the hook. If this injury would kill you, you explode in an area equal to your CAT, annihilating yourself and everything inside in a massive explosion. Nothing can survive this.*  
 
-**HELL**
+**HELL**  
 *Transmute, Adjacent, Until Rest*  
 You may dump energy into the ground and anything touching the ground in an area determined by CAT+2, choosing hot or cold. Choose one of the following effects, which lasts until you rest. You may gain or grant +1D when you or any ally next acts to take advantage of this power:  
 • **Simmer**: Discomfort for humans, lowered or raised temperature, hot or cold surfaces, etc.  
