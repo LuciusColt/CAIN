@@ -6,19 +6,20 @@ All terminology listed herein reflects current operational vocabulary and replac
 
 **PURPOSE**:  
 To maintain internal consistency across reports, case files, and field communications, CAIN Command has issued the following terminology adjustments.  
+
 All operatives are expected to adhere to updated lexicon effective immediately.
 
 **UPDATED TERMS**:
 
 | PREVIOUS TERM | UPDATED USAGE |
-|----------------|----------------|
-| **SINS** | ANOMALIES |
-| **EXORCISTS** | EXECUTIONERS / HUNTERS |
-| **BLASPHEMY** | DEFIANCE |
-| **SIN** | STRAIN |
-| **SIN MARKS** | STRAIN MARKS |
-| **PSYCHE** | MENTAL |
-| **TALISMAN** | TAG |
+| ------------- | ------------- |
+| **SINS**      | ANOMALIES     |
+| **EXORCISTS** | EXECUTIONERS  |
+| **BLASPHEMY** | DEFIANCE      |
+| **SIN**       | STRAIN        |
+| **SIN MARKS** | STRAIN MARKS  |
+| **PSYCHE**    | MENTAL        |
+| **TALISMAN**  | TAG           |
 
 **REFERENCE**:
 When creating character sheets, logging Agenda or Defiance, or recording case data, utilize the updated terminology exclusively.
