@@ -10,13 +10,13 @@
 ### **I. KNOWN ARTIFACTS**
 _Objects, anomalies, and assets under CAIN jurisdiction._
 
-| Designation                           | Classification    | Summary                                             |
-| ------------------------------------- | ----------------- | --------------------------------------------------- |
-| **Artifact-12-C / Equipment Dossier** | [[Artifact 12-C]] | Child's Cobalt Blue Safety Scissors; CAT 4 Anomaly. |
-|                                       |                   |                                                     |
-|                                       |                   |                                                     |
-| ...                                   | ...               | ...                                                 |
-|                                       |                   |                                                     |
+| Designation                           | Classification    | Summary                                                                                |
+| ------------------------------------- | ----------------- | -------------------------------------------------------------------------------------- |
+| **Artifact-12-C / Equipment Dossier** | [[Artifact 12-C]] | Child's Cobalt Blue Safety Scissors; CAT 4 Anomaly.                                    |
+| **SYS–ARCH-PRIME–001 / Archivist AI** | [[Archivist AI]]  | Internal Technical & Behavioral Overview of Archivist Artificial Intelligence Program. |
+|                                       |                   |                                                                                        |
+| ...                                   | ...               | ...                                                                                    |
+|                                       |                   |                                                                                        |
 
 > **Note:** Access to detailed entries requires appropriate clearance level.  
 > See individual artifact files for extended documentation.
