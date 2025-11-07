@@ -25,7 +25,8 @@
 **Defiance Type**: ARDENCE
 
 **Current Registry Portrait — CASTLE Archives**:
-![[public/DATABASE/Archives-🗂️/Miscellaneous-Info-🎲/Photos-🎥/X017–VIS–PHOT–05.png]]
+
+![[X017–VIS–PHOT–05.png]]
 
 ##### **II. DISCOVERY**
 Mira came to CAIN’s attention approximately 3 years prior, following an anomalous homicide during a private art gallery exhibition in ████████.
