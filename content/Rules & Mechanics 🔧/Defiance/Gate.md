@@ -1,7 +1,7 @@
 ---
 title: "[ GATE ]"
 ---
-![[chrome_7Pu3j8pk5X.png]]
+![[DFNS-ORNG-ICON-GATE.png]]
 
 >Manipulate space as a sculptor works with clay.
 
@@ -9,7 +9,7 @@ title: "[ GATE ]"
 
 ---
 **POCKET**  
-*Passive: You can fit a compressed tear in space into a piece of clothing that you are wearing. 
+*Passive: You can fit a compressed tear in space into a piece of clothing that you are wearing.  
 • You gain +1 KP  
 • You can stow or retrieve items inside your pocket, which can hold a combined total of items worth up to 3 KP.  
 Once inside, the items are stored in an extra dimensional space and hidden and safe, no matter their size. The pocket is attached to your clothes and if they are destroyed, items inside pop out.*  
