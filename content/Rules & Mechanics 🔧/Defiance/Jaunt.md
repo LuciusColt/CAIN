@@ -1,5 +1,6 @@
 ---
 title: "[ JAUNT ]"
+draft: true
 ---
 ![[chrome_xA6tR22F1W.png]]
 
