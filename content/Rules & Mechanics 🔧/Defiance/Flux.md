@@ -21,9 +21,11 @@ title: "[ FLUX ]"
 >
 >6. Your face looks a little different. The changes are permanent.
 
+---
 **STEAL TIME**  
 *Passive: Once a mission, you can reroll all your resting dice for yourself or an ally, taking the second result as final.*  
 
+---
 **STOP**  
 *Transmute, Instant, Self*  
 You spend up to three bursts to stop local time in an area around you equal to CAT. Roll 1d6 per burst spent and add them together - that is how many seconds you have. Anything that enters this area is immediately affected (including anything put into or out of the area), but time flows normally outside the area. In this stopped time, you are unaffected and:  
@@ -32,14 +34,16 @@ You spend up to three bursts to stop local time in an area around you equal to C
 
 >Then, gain Temporal Instability  
 
+---
 **QUICKENING**  
 *Instant, Adjacent*  
 You can accelerate the natural healing of your body or those of others, giving you the following benefits:  
 • Immediately heal 1d3 damage on yourself or another target.  
 • You may heal a CAT sized group of dying or injured humans in short range. Dying humans are stabilized and no longer in danger of expiring, but fall unconscious. Otherwise, badly injured humans are healed to the point of being able to (slowly) move by themselves. Minor injuries are fully healed.  
 
-> Then, gain temporal instability  
+>Then, gain temporal instability  
 
+---
 **REVERSAL**  
 *Adjacent, Instant*  
 By touching an object up to CAT size, you can reverse its passage through time for the last hour.  
@@ -48,6 +52,7 @@ By touching an object up to CAT size, you can reverse its passage through time f
 • If it would cause damage or impact, roll MENTAL for it • It cannot reverse life on non-living matter, such as corpses, but can temporarily move them and revert damage as if they were alive.  
 You can stop this effect by willing it, but to resume it requires using this power again.  
 
+---
 **SCHISM**  
 *Transmute, Instant, Scene*  
 You can create a bubble of altered time equal to CAT area. Inside the bubble, you open a window into one day in the past or future from the moment the bubble was created. Gain or grant +1D when you or any ally next acts to take advantage of this power:  
@@ -56,8 +61,9 @@ You can create a bubble of altered time equal to CAT area. Inside the bubble, yo
 • Things removed from the bubble from the past or future timeline, including living beings, simply disappear until they move back into the bubble.  
 The bubble represents an ‘alternate’ timeline, so anything altered inside of it will not show up in the present or future timeline (i.e. leaving an object in a past timeline will not have it show up in the present).  
 
-**STUTTER**
-*Instant, Short*
-You can briefly reverse time in order to alter causality for any event that happened as a result of an action roll made by you or an ally in CAT range, instantly after you see the result. Reroll the action roll completely, taking the second result as final.
+---
+**STUTTER**  
+*Instant, Short*  
+You can briefly reverse time in order to alter causality for any event that happened as a result of an action roll made by you or an ally in CAT range, instantly after you see the result. Reroll the action roll completely, taking the second result as final.  
 
->When you use this power, gain temporal instability. If you use it again before you rest, gain 1d3 temporal instability instead.
+>When you use this power, gain temporal instability. If you use it again before you rest, gain 1d3 temporal instability instead.  
