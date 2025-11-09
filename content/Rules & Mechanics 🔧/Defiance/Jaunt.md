@@ -1,6 +1,5 @@
 ---
 title: "[ JAUNT ]"
-draft: true
 ---
 ![[chrome_xA6tR22F1W.png]]
 
@@ -9,7 +8,7 @@ draft: true
 >Jaunt users, of all executioners, are the most likely to 'hollow' during sleep and leave an empty shell. This occurrence is very rare but its cause is unknown and it is 100% fatal.
 
 ---
-**GHOSTWIRE**  
+**MINDWIRE**  
 *Passive: You can join your mind telepathically with a number of other willing people you touch equal to CAT. While within long distance of each other, you can talk telepathically, and sense each other’s ambient emotional state. This effect lasts until you use it again, until someone becomes unconscious, or until you or another person closes the connection.*
 
 ---
@@ -31,3 +30,28 @@ You can link your memories to those of corpses, up to CAT number of humans or ex
 Gain or grant +1D when you or an ally next acts on the answers.  
 
 ---
+**SEIZE**  
+*Curse, Short, Scene*  
+You can shunt your perception out of your body to take control of a human, animal, or inanimate object. Anomalous beings are immune this effect. Unwilling humans might require a rolling MENTAL to control successfully.  
+• While controlling another your real body is insensate and defenseless.  
+• For humans and animals, you cannot force a target to harm itself or take action that would indirectly cause it to come to harm.  
+• Actions that the target takes use your skills, but the target’s body or equipment, which might change the circumstances.  
+You lose control of the body if it takes stress.
+
+---
+**PHANTOM**  
+*Self, Scene*  
+You can shunt your perception out of your body and roam for CAT+2 range, becoming a being made of purely psychic energy.  
+• While practicing this power, your real body is insensate and defenseless.  
+• You can fly at CAT speed, are invisible to those not psychically sensitive, and may pass through walls, floors, and objects easily while in this form.  
+• You cannot interact with or be affected by the physical world. You cannot use or benefit from your own psychic powers, but psychic powers or effects from others can still affect you.  
+If your form is destroyed somehow (by a supernatural force), you take 1 stress, this power ends, and you can’t use this power again until the scene passes.  
+This power may easily effect the parameters of rolls, such as difficulty and risk.
+
+---
+**PASSENGERS**  
+*Curse, Extreme Range, Scene*  
+You choose a number of willing people equal to ½ CAT in extreme range, who must be able to either hear you (even telepathically) or see you. You pull their psychic presence into your body for the duration. Their bodies become limp, vulnerable and insensate. However: 
+• They now share control of your body with you, including all senses.  
+• You can surrender control of your body to them to allow them to make action rolls using their skills or abilities, but your body (gear, access, etc).  
+• You can set them up as normal or aid them on these skills.  They cannot use psychic powers while controlling you this way, and you suffer any harm or consequences from their actions.  
