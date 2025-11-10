@@ -1,15 +1,13 @@
 ---
 title: ▽ AS ABOVE, SO BELOW
 ---
-# ▽ WELCOME TO THE CAIN ARCHIVES
-
 > **NOTICE:** Authorized personnel only.  
 > Access to the following records and directories is monitored, logged, and permanently stored under CAIN-CORE retention protocols.
 
 ---
 ### **ARCHIVAL PREFACE**
 
-Welcome, Operator.
+Welcome, Executioner.
 
 You are now connected to the **Central Archival Intelligence Network (CAIN)** — a distributed containment and documentation system designed to log, analyze, and preserve all data pertaining to the operations of **The Watchsites**, their **Executioners**, and all associated entities.  
 
