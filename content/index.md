@@ -1,56 +1,80 @@
 ---
 title: ▽ AS ABOVE, SO BELOW
 ---
-# 🗂️ CAIN Archives — Classified
+# ▽ WELCOME TO THE CAIN ARCHIVES
 
-> “Knowledge is containment. Observation is control.”
-
-Welcome to the official **CAIN Archives**, the repository of all known information, rules, and personal lore documented from our tabletop campaigns. This site is maintained for the use of the CAIN initiative and its members. Unauthorized browsing is… strongly discouraged.
-
----
-
-## 📜 Contents
-
-The archives are organized into multiple sections for your perusal:
-
-- **[[Rules & Mechanics]]** — Core gameplay systems, house rules, and procedural references.
-- **[[Character Logs]]** — Detailed dossiers of all current and past operatives, including anomalies and behavioral observations.
-- **[[Lore Tablets]]** — Historical accounts, field reports, and incident documentation.
-- **[[Case Files]]** — Research files, anomalies, and unreleased findings.
-
-> ⚠️ Warning: Certain entries are restricted. Some documents may induce minor psychological effects if read outside of sanctioned sessions.
+> **NOTICE:** Authorized personnel only.  
+> Access to the following records and directories is monitored, logged, and permanently stored under CAIN-CORE retention protocols.
 
 ---
+### **ARCHIVAL PREFACE**
 
-## 🧩 Purpose of This Archive
+Welcome, Operator.
 
-The CAIN Archives serve as a living record of our tabletop sessions:
+You are now connected to the **Central Archival Intelligence Network (CAIN)** — a distributed containment and documentation system designed to log, analyze, and preserve all data pertaining to the operations of **The Watchsites**, their **Executioners**, and all associated entities.  
 
-1. **Reference**: Ensure all players and staff have access to the latest rules and character updates.
-2. **Continuity**: Preserve storylines, anomalies, and major events across sessions.
-3. **Immersion**: Maintain the atmosphere of a classified research facility for enhanced gameplay.
+CAIN functions as both an autonomous intelligence and a bureaucratic graveyard — where records of **anomalies, missions, and personnel** are stored in perpetuity for analysis, audit, and memory.  
 
----
-
-## 🔗 Quick Links
-
-- [[Rules & Mechanics]]
-- [[Watchsite-12]]
-- [[Agenda]]
-- [[Defiance]]
+The information herein is sensitive, fragmented, and often dangerous.  
+Proceed with discipline. Do not trust every file.  
+Some data persists even when deleted.
 
 ---
+## ▽ PRIMARY INDEXES
 
-## ⚡ Access Protocols
-
-All members are encouraged to respect document integrity:
-
-- Do not modify core entries without proper authorization.
-- Tag new entries with date, author, and classification level.
-- Report discrepancies to the archivist immediately.
+Below are your accessible archival modules. Each section contains categorized documentation relevant to CAIN’s ongoing operations and historical continuity.
 
 ---
+### **1. [[Executioners Handbook]]**
 
-> “Every detail counts. Every observation matters. CAIN sees all.”
+> _Operational Guidelines | Standard Protocols | Personnel Procedures_
+
+Contains the full documentation of Executioner conduct, training regimens, and authorized mission operations.  
+Includes **character creation**, **organizational structure**, and **player-facing rules** necessary for operative functionality.
 
 ---
+### **2. [[Game Mechanics]]**
+
+> _System Logic | Combat Framework | Dice Interaction Protocols_
+
+All game mechanics, stat frameworks, modifiers, and procedural resolutions are catalogued here.  
+Reference this directory for gameplay execution and inter-operator interactions.
+
+---
+### **3. [[Case Files]]**
+
+> _Mission Records | Anomalous Artifacts | Field Reports_
+
+The living archive of all documented events within the CAIN universe.  
+Filed reports, Executioner logs, and Watchsite findings are stored here for oversight and cross-reference.
+
+---
+### **4. [[Character Logs]]**
+
+> _Personnel Biographies | Psychological Profiles | Status Records_
+
+All registered operators, Executioners, and Virtues are catalogued here.  
+This includes both active and deceased individuals.  
+Data integrity varies by clearance.
+
+---
+### **5. [[Lore Tablets]]**
+
+> _Structures | Systems | Historical Framework_
+
+Documentation of internal CAIN infrastructure, world systems, and theoretical frameworks that define the world’s underlying machinery.
+
+---
+## ▽ SYSTEM FOOTER
+
+> **CAIN // ARCHIVAL NODE-12**  
+> Log timestamp: `███████`  
+> Integrity Check: PASS  
+> Clearance: EXECUTIONER LEVEL-2  
+>  
+> “Memory is a form of containment.”
+
+---
+#### _Access additional data by browsing the left navigation panel or querying CAIN directly._
+
+> **End of Transmission.**
