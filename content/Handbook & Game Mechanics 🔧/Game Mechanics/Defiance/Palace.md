@@ -2,7 +2,7 @@
 title: "[ PALACE ]"
 ---
 
-![[chrome_mJnT8H4Kb9.png]]
+![[public/Archives-🗂️/Miscellaneous-Info-🎲/Photos-🎥/chrome_mJnT8H4Kb9.png]]
 
 >The contents of your mind are as solid to you as plain reality.
 

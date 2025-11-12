@@ -1,7 +1,7 @@
 ---
 title: "[ SMOTHER ]"
 ---
-![[chrome_hwEygSimFe.png]]
+![[public/Archives-🗂️/Miscellaneous-Info-🎲/Photos-🎥/chrome_hwEygSimFe.png]]
 
 >Suppress the innate properties of the universe.
 

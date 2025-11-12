@@ -1,7 +1,7 @@
 ---
 title: "[ ARDENCE ]"
 ---
-![[DFNS-RED-ICON-ARDENCE.png]]
+![[public/Archives-🗂️/Miscellaneous-Info-🎲/Photos-🎥/DFNS-RED-ICON-ARDENCE.png]]
 
 > Manipulate potential energy to create flashes of extreme heat or cold. The most potent, and most dangerous of defiance - to others and its user.
 
