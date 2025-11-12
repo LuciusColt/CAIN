@@ -1,7 +1,7 @@
 ---
 title: "[ VECTOR ]"
 ---
-![[public/Archives-🗂️/Miscellaneous-Info-🎲/Photos-🎥/DFNS-ORNG-ICON-VECTOR.png]]
+![[DFNS-ORNG-ICON-VECTOR.png]]
 
 >Imbue objects or living beings with sudden and sharp burst of velocity
 

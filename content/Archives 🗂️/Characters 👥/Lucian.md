@@ -35,7 +35,7 @@
 **Host Object**: Child’s Safety Scissors — Cobalt Blue handles
 
 **Current Registry Portrait — CASTLE Archives**:
-![[public/Archives-🗂️/Miscellaneous-Info-🎲/Photos-🎥/X072–VIS–PHOT–04.png]]
+![[X072–VIS–PHOT–04.png]]
 
 ##### **II. DISCOVERY**
 Lucian was recovered on ██/██/20██ during the containment operation of a CAT 4 Anomalous entity codenamed █████████.

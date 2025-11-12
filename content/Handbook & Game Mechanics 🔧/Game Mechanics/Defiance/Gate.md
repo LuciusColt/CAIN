@@ -1,7 +1,7 @@
 ---
 title: "[ GATE ]"
 ---
-![[public/Archives-🗂️/Miscellaneous-Info-🎲/Photos-🎥/DFNS-ORNG-ICON-GATE.png]]
+![[DFNS-ORNG-ICON-GATE.png]]
 
 >Manipulate space as a sculptor works with clay.
 

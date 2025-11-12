@@ -1,7 +1,7 @@
 ---
 title: "[ FLUX ]"
 ---
-![[public/Archives-🗂️/Miscellaneous-Info-🎲/Photos-🎥/DFNS-RED-ICON-FLUX.png]]
+![[DFNS-RED-ICON-FLUX.png]]
 
 >Manipulate the direction and flow of time itself.
 

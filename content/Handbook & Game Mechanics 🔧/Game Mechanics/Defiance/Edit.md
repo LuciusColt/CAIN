@@ -1,7 +1,7 @@
 ---
 title: "[ EDIT ]"
 ---
-![[public/Archives-🗂️/Miscellaneous-Info-🎲/Photos-🎥/chrome_062MvlTOOr.png]]
+![[chrome_062MvlTOOr.png]]
 
 >The way things are is not the way they had to be. You can choose, filtering the threads of possibilities and inviting them to meld with the real world.
 
