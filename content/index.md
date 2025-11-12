@@ -47,7 +47,7 @@ The living archive of all documented events within the CAIN universe.
 Filed reports, Executioner logs, and Watchsite findings are stored here for oversight and cross-reference.
 
 ---
-### **4. [[Character Logs]]**
+### **4. [[Characters]]**
 
 > _Personnel Biographies | Psychological Profiles | Status Records_
 
