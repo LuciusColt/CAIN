@@ -1,7 +1,7 @@
 ---
 title: "[ TENSION ]"
 ---
-![[DFNS-RED-ICON-TENSION.png]]
+![[DFNS-RED-ICON-TENS.png]]
 
 >Project a psychic field of incredible density and durability. This often takes the form of a metallic shimmering surface, visible only to the psychically sensitive.
 

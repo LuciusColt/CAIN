@@ -1,7 +1,7 @@
 ---
 title: "[ SMOTHER ]"
 ---
-![[Photos-🎥/chrome_hwEygSimFe.png]]
+![[DFNS-ORNG-ICON-SMOTHER.png]]
 
 >Suppress the innate properties of the universe.
 

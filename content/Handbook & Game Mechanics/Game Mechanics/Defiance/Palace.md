@@ -1,8 +1,7 @@
 ---
 title: "[ PALACE ]"
 ---
-
-![[chrome_mJnT8H4Kb9.png]]
+![[DFNS-PRPL-ICON-PALACE.png]]
 
 >The contents of your mind are as solid to you as plain reality.
 

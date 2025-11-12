@@ -1,7 +1,7 @@
 ---
 title: "[ JAUNT ]"
 ---
-![[chrome_xA6tR22F1W.png]]
+![[DFNS-PRPL-ICON-JAUNT.png]]
 
 >Slice the body and soul with a carving knife.
 

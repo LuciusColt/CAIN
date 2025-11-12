@@ -1,7 +1,7 @@
 ---
 title: "[ BIND ]"
 ---
-![[chrome_EYeIi0Zn2F.png]]
+![[DFNS-BLU-ICON-BIND.png]]
 
 >With the will of a wielder, even Anomalies can be controlled, bound to specially prepared tags in spirit form.
 

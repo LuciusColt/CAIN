@@ -23,7 +23,7 @@ Some data persists even when deleted.
 Below are your accessible archival modules. Each section contains categorized documentation relevant to CAIN’s ongoing operations and historical continuity.
 
 ---
-### **1. [[Executioners Handbook]]**
+### **1. [[Handbook]]**
 
 > _Operational Guidelines | Standard Protocols | Personnel Procedures_
 

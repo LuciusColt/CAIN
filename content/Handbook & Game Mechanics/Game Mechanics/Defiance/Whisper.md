@@ -1,7 +1,7 @@
 ---
 title: "[ WHISPER ]"
 ---
-![[chrome_efuHCFef38.png]]
+![[DFNS-BLU-ICON-WHISPER.png]]
 
 >Your shadow is animate and hungry. It knows the future
 

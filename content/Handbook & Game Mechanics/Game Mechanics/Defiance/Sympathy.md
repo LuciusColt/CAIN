@@ -1,7 +1,7 @@
 ---
 title: "[ SYMPATHY ]"
 ---
-![[chrome_ADr6yKWD13.png]]
+![[DFNS-PRPL-ICON-SYMPATHY.png]]
 
 >Humans leave impressions on everything they touch. You can do more than touch.  
 
