@@ -9,7 +9,7 @@ title: "[ FLUX ]"
 
 >Temporal Instability: Many of your powers give you this hook. When the hook resolves, roll 1d6:
 >
->1. Permanently add to your agenda ‘Prove that you are the real you.” If you gain this result again, you immediately suffer sin overflow.
+>1. Permanently add to your agenda ‘Prove that you are the real you.” If you gain this result again, you immediately suffer strain overflow.
 >
 >2. Mysterious injuries open up. You go unconscious from pain, putting you out of the current scene, and take an injury.
 >
