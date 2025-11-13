@@ -13,7 +13,7 @@ draft: true
 Anomaly ^YnY5XbgL
 
 ## Embedded Files
-fe8984bb965d900ce1a3adce965b97c29367ac2b: [[Copy of Case Board.png]]
+fe8984bb965d900ce1a3adce965b97c29367ac2b: [[CAIN-CASE-BOARD.png]]
 
 %%
 ## Drawing
