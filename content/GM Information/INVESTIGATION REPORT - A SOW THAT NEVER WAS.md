@@ -1,6 +1,13 @@
 ---
 draft: true
 ---
+**Known Weapons**:
+Kayla - Throwing Knives
+Danny - Brass Knuckles
+Grayson - Blade Boomerang
+Joselyn - 
+Marilee - 
+
 ## INVESTIGATION REPORT
 ---
 CASE NAME: PIGPENT
