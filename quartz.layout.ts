@@ -41,8 +41,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
   title: "Explorer",
   folderClickBehavior: "collapse",
-  folderDefaultState: "open",                
-  useSavedState: true,                       
+  folderDefaultState: "collapsed",                
+  useSavedState: false,                       
   order: ["filter", "map", "sort"],
 }),
   ],
