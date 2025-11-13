@@ -35,7 +35,6 @@
 **Host Object**: Child’s Safety Scissors — Cobalt Blue handles
 
 **Current Registry Portrait — CASTLE Archives**:
-
 ![[X072–VIS–PHOT–04.png]] 
 
 ##### **II. DISCOVERY**
@@ -44,7 +43,7 @@ Following the eradication of the primary entity, residual psychic energy was det
 Agent ██████ and Executioner ██████ successfully subdued Lucian after a two-hour containment struggle.
 
 Post-recovery scans revealed residual Anomaly contamination manifesting through the aforementioned safety scissors. The entity, while severely weakened, demonstrated signs of partial sentience and symbiotic psychological integration with the host.
-Lucian’s immediate containment was authorized under [[Watchsite-12]], later reclassified as Observation Facility ███, pending evaluation.
+Lucian’s immediate containment was authorized under [[General Dossier — Watchsite-12]], later reclassified as Observation Facility ███, pending evaluation.
 
 ##### **III. ANOMALY MANIFESTATION DETAILS** 
 **Designation**: CAT 1 — SCISSORHAND 

@@ -21,7 +21,7 @@ Silence is not enforced but does occur naturally.
 A narrow staircase spirals between levels; from the landing, residents can look up through the skylight and see the aurora rippling above the ice — distorted by meters of frozen glass.
 
 ##### **III. CONTENT CATALOG**
-All materials within the Echo Stacks are filtered through the [[Archivist AI]].
+All materials within the Echo Stacks are filtered through the [[Archivist AI — Watchsite 12]].
 Physical books are limited to vetted psychology, philosophy, history, and selected fiction. Certain “soft” creative texts are included as therapeutic stimuli.
 
 **Notable Materials on-site:**

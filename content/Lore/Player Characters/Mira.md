@@ -34,7 +34,7 @@ The event coincided with a localized blackout and a surge of psychic resonance c
 The TOAD killed her employer, a renowned sculptor who had publicly taken credit for years of her work. Local authorities investigating the scene reported “temperature distortion,” “melting marble,” and “unseen force vibrations.”
 CAIN Executioners, deployed under the cover of detectives, intercepted Mira within a nearby storage facility. The ensuing engagement lasted several hours and resulted in multiple personnel developing short-term sickness from residual psychic afterburn.
 
-Mira’s Anomaly was neutralized during containment; she was subsequently sedated and transported under authorization of ████████████ to [[Watchsite-12]] for rehabilitation and observation.
+Mira’s Anomaly was neutralized during containment; she was subsequently sedated and transported under authorization of ████████████ to [[General Dossier — Watchsite-12]] for rehabilitation and observation.
 
 ##### **III. ANOMALY MANIFESTATION DETAILS**
 **Designation**: CAT 1 — EMERALD MIRROR
