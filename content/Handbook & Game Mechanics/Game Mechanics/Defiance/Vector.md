@@ -3,7 +3,7 @@ title: "[ VECTOR ]"
 ---
 ![[DFNS-ORNG-ICON-VECTOR.png]]
 
->Imbue objects or living beings with sudden and sharp burst of velocity
+>Imbue objects or living beings with sudden and sharp burst of velocity.
 
 >Fact: Has the highest fatality rate of untrained users, who usually die from falling.
 

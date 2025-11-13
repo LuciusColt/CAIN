@@ -8,7 +8,7 @@
 
 **Date**: ██/██/20██
 
-**Incident Type**: Sin Manifestation / Civilian Casualty
+**Incident Type**: Anomaly Manifestation / Civilian Casualty
 
 **Location**: ████████ University, ████████ State
 

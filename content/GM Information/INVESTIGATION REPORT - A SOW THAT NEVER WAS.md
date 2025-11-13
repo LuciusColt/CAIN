@@ -5,7 +5,7 @@ draft: true
 Kayla - Throwing Knives
 Danny - Brass Knuckles
 Grayson - Blade Boomerang
-Joselyn - 
+Joselyn - Compact Machine Carbine — 'Sparrow-25'
 Marilee - 
 
 ## INVESTIGATION REPORT

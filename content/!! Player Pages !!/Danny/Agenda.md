@@ -1,0 +1,9 @@
+###### **BEAST**
+---
+
+Objective:  
+► Get into a fight  
+► **Hold Back**  
+
+Ability:
+► **Red Muscle**: You can take 2 nonlethal damage to gain +1D on any violent or forceful roll.  
