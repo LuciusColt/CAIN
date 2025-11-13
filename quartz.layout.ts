@@ -42,7 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
   title: "Explorer",
   folderClickBehavior: "collapse",
   folderDefaultState: "collapsed",                
-  useSavedState: false,                       
+  useSavedState: true,                       
   order: ["filter", "map", "sort"],
 }),
   ],
