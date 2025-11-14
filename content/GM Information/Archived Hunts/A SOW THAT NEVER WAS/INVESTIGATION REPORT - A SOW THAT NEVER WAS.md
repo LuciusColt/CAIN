@@ -1,13 +1,6 @@
 ---
 draft: true
 ---
-**Known Weapons**:
-Kayla - Throwing Knives
-Danny - Brass Knuckles
-Grayson - Blade Boomerang
-Joselyn - Compact Machine Carbine — 'Sparrow-25'
-Marilee - 
-
 ## INVESTIGATION REPORT
 ---
 CASE NAME: PIGPENT
@@ -177,7 +170,7 @@ The Husband - Viktor Mulder
 
 You visit the hotel Viktor is staying at, it's only a few blocks away from The Marrow, it's quiet when he answers the door.
 
-**Ethan Mulder**, early-30s, immaculate suit, and the faint smell of cologne that can’t quite cover the scent of stale liquor. He looks you over with a politeness that feels rehearsed. Behind him, the penthouse is spotless — cleaner than any space occupied by grief should be.
+**Viktor Mulder**, early-30s, immaculate suit, and the faint smell of cologne that can’t quite cover the scent of stale liquor. He looks you over with a politeness that feels rehearsed. Behind him, the penthouse is spotless — cleaner than any space occupied by grief should be.
 
 “Oh… right, the investigators,” he says, stepping aside. “They told me someone might come by.”
 
@@ -191,13 +184,13 @@ His eyes don’t wander toward her framed photographs — or the half-packed sui
 
 On the table lies an unopened envelope from **The Marrow’s building management**, marked _“Urgent.”_ He hasn’t touched it.
 
-The conversation stalls until his phone buzzes. He stiffens slightly, moving to silence it. For a second, the screen lights up enough for you to see the name: **“Marcy (Office).”**
+The conversation stalls until his phone buzzes. He stiffens slightly, moving to silence it. For a second, the screen lights up enough for you to see the name: **“Robin (Office).”**
 
 That was my “*secretary*.” he says.
 
 There’s no grief in his face — only irritation that you’re still standing here. When you ask if you can follow up later, he waves absently, already looking past you.
 
-He’s hiding something — and whoever _Marcy_ is, she might know what.
+He’s hiding something — and whoever _Robin_ is, she might know what.
 
 A little digging into his office building downtown, or perhaps a casual visit with the secretary herself, might turn up more than he expects.
 

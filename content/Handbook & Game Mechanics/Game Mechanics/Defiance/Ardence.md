@@ -37,7 +37,7 @@ Whatever question you answer ‘yes’ on, it affects the outcome of the action 
 **VOID**  
 *Instant, Short*  
 You create a flash vacuum by burning the air away. The void creates a loud thunderclap, affecting an area up to CAT. It affects everyone in the area except you. Choose one of the following effects, then you may gain or grant +1D when you or any ally next acts to take advantage of this power:  
-• **Weak**: Sucks in loose objects not held, worn, or bolted down. 
+• **Weak**: Sucks in loose objects not held, worn, or bolted down.  
 • **Medium**: All humans and executioners in the area are thrown off their feet and pulled in, excluding you.  
 • **Strong**: Anomalies and vehicles up to CAT size are thrown off balance or pulled depending on their size. Glass is shattered. The thunderclap is momentarily deafening.  
 This power may effect the parameters of rolls, such as difficulty and risk.  

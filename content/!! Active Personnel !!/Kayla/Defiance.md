@@ -9,19 +9,21 @@
 
 ---
 
-**SHIVER**  
-*Charm, Self, Scene*  
+**SHIVER** (*Charm, Self, Scene*)
+  
 When you are looking for a human, anomaly, executioner, location, or object, you can declare ‘I feel a shiver’. You send a psychic pulse out to CAT range in a radius around you, which remains active for this scene. While your target is close enough to be in range, you feel a strong sense of cold and discomfort. You can hone in on this feeling easily. It’s never hard to track your target while this power is active. If your target is in short range of you, you also gain +1D on any rolls to track or locate them.
 
 ---
 
-**DISSECT**  
-*Instant, CAT Range*  
+**DISSECT** (*Instant, CAT Range*)
+  
 Examine a human or executioner you can see in CAT range, roll MENTAL, and ask your shadow one of the following questions, plus one more per success. They answer truthfully, but can use a maximum of three words to answer each.  
+
 • Is this person lying?  
 • What is the main emotion this person is feeling?  
 • Where has this person just come from?  
 • Where are they planning to go next?  
+
 Gain or grant +1D when you or any ally next acts to take advantage of each answer.  
 
 ---

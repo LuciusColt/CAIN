@@ -7,20 +7,23 @@
 
 ---
 
-**BULLET**  
-*Instant, CAT +1 Range*  
-You can imbue strong bursts of velocity into the air at your fingertips, creating pressurized air bullets that hit with extreme force. Roll MENTAL for its effects, only spending a burst on success.  
+**BULLET** (*Instant, CAT +1 Range*)  
+
+You can imbue strong bursts of velocity into the air at your fingertips, creating pressurized air bullets that hit with extreme force. Roll MENTAL for its effects, only spending a burst on success. 
+
 • Gain +1D when making shots from a elevated position  
 • Gain +1D when making shots to disarm, distract, or disable 
 
 ---
 
-**LIFT**  
-*Charm, Self, Scene*  
+**LIFT** (*Charm, Self, Scene*)  
+
 You reverse gravity’s effect on yourself and a CAT sized group of other executioners or humans with a low but constant Vector effect. For this scene, any affected gain the following benefits:  
+
 • You can run, walk, or climb up vertical surfaces.  
 • You can slow your fall at will, and you cannot take harm from falling.  
 • You can glide a distance equal to CAT range. you must start at height to gain this benefit. 
+
 This power may easily effect the parameters of rolls, such as difficulty and risk.  
 
 ---
