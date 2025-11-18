@@ -7,13 +7,13 @@
 
 ---
 
-**MALLEATE** (*Transmute, Until Rest, Adjacent* )  
+**MALLEATE** (*Transmute, Until Rest, Adjacent*)  
 
 You can invert and infuse a tension field to make an area of nonliving matter incredibly pliable and soft. The size of this block of matter you can affect is affected by CAT. Choose one of the following effects, then you may gain or grant +1D when you or any ally next acts to take advantage of this power:  
 
 • **Rubber**: The matter becomes bouncy and springy.  
 • **Mud**: The matter melts into a thick mud. It becomes pliable and sticky and difficult to move through.  
-• **Liquid**: The matter melts into liquid 
+• **Liquid**: The matter melts into liquid. 
 
 This power may easily effect the parameters of rolls, such as difficulty and risk. When the effect expires, the matter slowly reverts to its original state and form.  
 
