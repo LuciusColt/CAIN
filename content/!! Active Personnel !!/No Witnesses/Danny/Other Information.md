@@ -1,14 +1,17 @@
-**XID**:  
-**CAT**:  
-**Weapon**:  
-**Level**:  
-**XP**:  
-**Advances**:  
-**SCRIP**:  
+**XID**: *X777*  
+**CAT**: III  
+**Weapon**: Brass Knuckles  
+**Level**: 2  
+**XP**: 0/4  
+**Advances**: 2/3  
+**SCRIP**: 5  
 
-**Highest Damage Recorded** (*in a single instance*):  
+**Anomalies Hunted**: 2  
+-> **Success**: 2  
+-> **Failure**: 0
+-> **Spared**: 0  
+**Success Rate**: 100%  
 
-**Anomalies Hunted**:  
--> **Success**:  
--> **Failure**:  
-**Success Rate**:  
+**Physical Characteristics**:  
+-> Cut across *Left Ear*, No Hearing Loss  
+-> Cut across *Left Eye*, Wears Eyepatch  

@@ -4,9 +4,7 @@
 **Level**: 0  
 **XP**: 0/4  
 **Advances**: 0/3  
-**SCRIP**: 0  
-
-**Highest Damage Recorded** (*in a single instance*): 0  
+**SCRIP**: 0   
 # **DECEASED**
 
 **Cause of Death**:
