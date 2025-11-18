@@ -20,6 +20,7 @@ Many of your powers give you this hook. When the hook resolves, roll 1d6:
 ---
 
 **STEAL TIME** (*Passive*)    
+
 *Once a mission, you can reroll all your resting dice for yourself or an ally, taking the second result as final.*  
 
 ---
