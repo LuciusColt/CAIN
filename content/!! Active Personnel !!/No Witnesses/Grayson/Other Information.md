@@ -3,7 +3,7 @@
 **Weapon**: Boomerang  
 **Level**: 2  
 **XP**: 0/5  
--> *XP Cap +1 (4 -> 5), Learned **COPY***
+-> *XP Cap +1 (4 -> 5), Learned **COPY***  
 **Advances**: 1/3  
 -> *Meditated, Learned **COPY***, 1 Advance  
 **SCRIP**: 10  
