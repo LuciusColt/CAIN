@@ -54,7 +54,7 @@ TRAUMA QUESTIONS:
 ---
 
 INCLUDED MATERIALS:
-[[Case Board - A SOW THAT NEVER WAS]]
+[[CASE BOARD - A SOW THAT NEVER WAS]]
 
 OTHER INFORMATION:
 **SEVERE ATTACK - DESPERATE STEP TO THE PAST**: The Anomaly try to move toward the targeted Executioner, but failed due to its atrophied legs and instead collapse onto them.

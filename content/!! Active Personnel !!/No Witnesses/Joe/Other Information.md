@@ -6,7 +6,7 @@
 -> *XP Cap +1 (4 -> 5), Learned **Diplomacy***
 **Advances**: 1/3  
 -> *Meditated, Learned **Diplomacy***, 1 Advance  
-**SCRIP**: 5  
+**SCRIP**: 10  
 
 **Anomalies Hunted**: 2  
 -> **Success**: 2  
