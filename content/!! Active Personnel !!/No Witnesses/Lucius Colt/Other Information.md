@@ -1,6 +1,6 @@
 **XID**: *X939*  
 **CAT**: III  
-**Weapon**: M-25 Carbine 'Sparrow' 
+**Weapon**: M-25 Carbine 'Sparrow'  
 **Level**: 2  
 **XP**: 0/4  
 **Advances**: 0/3  
