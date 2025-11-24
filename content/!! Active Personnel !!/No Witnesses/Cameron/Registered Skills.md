@@ -1,7 +1,7 @@
 
 | **Registered Skill** | **Level** |
 | -------------------- | --------- |
-| Force                | 2         |
+| Force                | 3 ☆       |
 | Conditioning         | 1         |
 | Coordination         | 1         |
 | Covert               | 1         |

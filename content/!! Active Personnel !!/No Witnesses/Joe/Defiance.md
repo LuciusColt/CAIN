@@ -45,13 +45,19 @@ You make a simple request of an object as if it was a person, or ask it a simple
 
 ---
 
-**AMPLIFY** (*Summon, Adjacent, Scene*)  
+###### **WHISPER**
+---
 
-You can expand the mundane properties of a regular non-weapon item to extreme levels. You touch a mundane object up to CAT size. For the scene, you automatically have resonance with it, and its properties are enhanced to extreme levels, as if they were up to your CAT in scale. For example:  
-• A car’s speed, handling, and resilience.  
-• A light’s brightness and intensity, and the area it illuminates.  
-• A door’s ability to lock and withstand force.  
-This can easily affect the difficulty and risk of rolls. The object is still mundane.
+**SHADOW** (*Passive*)  
+*You harbor a separate being that follows you everywhere, even when you sleep. The rules for it are below.*  
+
+*THE SHADOW is intangible and invisible to everyone, even the psychically sensitive. It can only weakly interact with the physical world and has its own mind and senses. It can range in about short range from you. It can pass through walls and surfaces easily but retreats into your body in bright light, preventing it from doing anything. You can talk to it telepathically, but talking to it is dangerous and causes 1 damage after any interaction ends. It has no obligation to tell you the truth unless you use your powers. You may talk to it safely using your abilities, and it knows the future. The Admin will answer for it.*
+
+---
+
+**PRECOGNITION** (*Instant, Self*)  
+
+When the Admin is describing a scene or you are about to take a course of action, you can ‘flash back’. Make an action roll or play a scene out in the past, where you had a vision of the present moment. This cannot completely alter the established facts of the present (you can’t have knocked someone out in the past if you just finished having a conversation with them in the present, for example), but could change the situation or alter present details, or it could set up yourself or any ally. For example you could have made preparations for the current moment (locked or unlocked a door, stowed some gear, made a phone call, etc). If you use this power for gear, mark KP for it as normal. If the situation is complicated, also take 1 damage. If it’s convoluted or far fetched, take 3 damage.
 
 ---
 

@@ -3,7 +3,8 @@
 **Weapon**: Brass Knuckles  
 **Level**: 2  
 **XP**: 0/4  
-**Advances**: 2/3  
+**Advances**: 0/3  
+-> *Trained, Gained +2 **Surveillance***, 2 Advances  
 **SCRIP**: 10  
 
 **Anomalies Hunted**: 2  

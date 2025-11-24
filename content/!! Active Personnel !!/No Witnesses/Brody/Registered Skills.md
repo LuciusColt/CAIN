@@ -8,6 +8,6 @@
 | Interfacing          | 0         |
 | Investigation        | 2         |
 | Surveillance         | 0         |
-| Negotiation          | 1         |
+| Negotiation          | 2         |
 | Authority            | 2         |
 | Connection           | 1         |

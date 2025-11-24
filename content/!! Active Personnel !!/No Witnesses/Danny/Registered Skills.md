@@ -7,7 +7,7 @@
 | Covert               | 1         |
 | Interfacing          | 0         |
 | Investigation        | 0         |
-| Surveillance         | 0         |
+| Surveillance         | 2         |
 | Negotiation          | 1         |
 | Authority            | 1         |
 | Connection           | 1         |

@@ -26,6 +26,20 @@ For every ‘6’ result you roll when using ability, this ability inflicts 1 ex
 
 ---
 
+###### **VECTOR**
+---
+
+**BRAKE** (*Passive*)  
+*Automatically remove velocity from all projectiles that would hit you, taking -1 damage from them.*  
+
+---
+
+**FLING** (*Adjacent, Instant*)  
+
+With a touch, you can imbue velocity into yourself or another object or living being and send it flying. The combined size of the object or being and the range you send them must equal your CAT+2 or less. Once sent flying, the direction of your target cannot be changed. You can alternately remove all velocity by touching an object or person of CAT+2 size, bringing it to a complete stop. Roll MENTAL for this power’s effects, including any harm inflicted, and only spend a burst on at least one success.  
+
+---
+
 **BLAST** (*Universal*)  
 
 Spend a mental burst and roll MENTAL to produce a weaponized form of concentrated psychic energy in melee or short range. The specific look and feel of this basic executioner skill varies between executioner. The strength of this blast scales with CAT.
