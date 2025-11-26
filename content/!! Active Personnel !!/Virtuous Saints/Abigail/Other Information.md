@@ -4,7 +4,7 @@
 **Level**: 0  
 **XP**: 0/4  
 **Advances**: 0/3  
-**SCRIP**: 5  
+**SCRIP**: 0  
 
 **Anomalies Hunted**: 0  
 -> **Success**: 0  
