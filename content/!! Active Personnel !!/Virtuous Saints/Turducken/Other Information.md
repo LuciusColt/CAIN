@@ -1,6 +1,6 @@
-**XID**: *X444*  
+**XID**: *X740*  
 **CAT**: I  
-**Weapon**: Pole Arm  
+**Weapon**: Gauntlets  
 **Level**: 0  
 **XP**: 0/4  
 **Advances**: 0/3  
