@@ -5,13 +5,13 @@
 **DEBRIEF SUBMISSION TO:** Watchsite-39 Handler “Silas”  
 **EXECUTIONERS:**
 
-- **Grayson ████████** (KIA — See Addendum S-4)
+- **Nelson ████████** (KIA — See Addendum S-4)
 
-- **Kayla ████████**
+- **Vivienne ████████**
 
 - **Joselyn ████████**
 
-- **Daniel ████████**   
+- **Dan ████████**   
 
 ---
 
@@ -51,7 +51,7 @@ Viktor dismissed the team with minimal useful information.
 ## **II. FOLLOW-UP — ROBIN (SECRETARY) & OFFICE SEARCH**
 
 The team intercepted **Robin**, Viktor’s secretary, outside their shared real estate agency.  
-Under questioning (primarily by Executioner Daniel), Robin:
+Under questioning (primarily by Executioner Dan), Robin:
 
 - Exhibited signs of guilt and agitation
     
@@ -62,7 +62,7 @@ Under questioning (primarily by Executioner Daniel), Robin:
 - Provided office keys in a panic and fled via cab
     
 
-Inside the office, Kayla successfully lockpicked a secured cabinet.  
+Inside the office, Vivienne successfully lockpicked a secured cabinet.  
 Contents recovered:
 
 - Multiple photographs of Viktor and Robin engaged in sexual acts
@@ -119,7 +119,7 @@ The Marrow required:
     
 
 The team returned to Viktor’s hotel room.  
-Daniel forcibly kicked open the door, the doorknob striking Viktor unconscious on impact.  
+Dan forcibly kicked open the door, the doorknob striking Viktor unconscious on impact.  
 The team **ransacked the room**, retrieving:
 
 - Building access keycard
@@ -138,15 +138,15 @@ There they discovered:
 
 Too late to pursue that night.  
 Team procured instant ramen at a nearby 7/11.  
-They slept behind the dumpster (Grayson’s recommendation).
+They slept behind the dumpster (Nelson’s recommendation).
 
 ---
 
 ## **VI. MEDICAL INQUIRY — DR. JASON KENNEDY**
 
 Next morning:  
-Kayla and Joselyn visited the **Women’s & Children’s Medical Center.**  
-Kayla posed as a concerned friend; Dr. Kennedy accepted as a walk-in consult.  
+Vivienne and Joselyn visited the **Women’s & Children’s Medical Center.**  
+Vivienne posed as a concerned friend; Dr. Kennedy accepted as a walk-in consult.  
 From him they secured:
 
 - **Emilia’s 7th-month ultrasound**
@@ -173,18 +173,18 @@ Three **Traces** emerged:
 - Piglet-sized, bipedal, umbilical cords ending in weighted stones  
     Combat Summary:
     
-- Kayla neutralized one with thrown knives
+- Vivienne neutralized one with thrown knives
     
-- Grayson fought another hand-to-hand atop its body, sustaining wounds but killing it
+- Nelson fought another hand-to-hand atop its body, sustaining wounds but killing it
     
-- Daniel (brass knuckles) and Joselyn (M-25 “Sparrow”) finished the last
+- Dan (brass knuckles) and Joselyn (M-25 “Sparrow”) finished the last
     
 
 ### **C. MINI-BOSS: “PIGPENT”**
 
 Team encountered PIGPENT, second-stage anomaly.  
 Weapon attacks proved ineffective.  
-Grayson attempted to blast PIGPENT through a wall opening.  
+Nelson attempted to blast PIGPENT through a wall opening.  
 Result: **Catastrophic overuse of power** caused the _entire penthouse to explode outward_, sending all combatants into freefall.  
 Joselyn used her ability to **slow the fall of the team**, but PIGPENT plummeted uncontrolled and impacted somewhere in the fog below.
 
@@ -210,7 +210,7 @@ Combat Notes:
 
 - Joselyn was seized and swallowed whole
     
-- Kayla performed a precision knife strike, slicing the abdomen open and killing the OGRE
+- Vivienne performed a precision knife strike, slicing the abdomen open and killing the OGRE
     
 - OGRE destabilized and dissipated, releasing the palace structure
     
@@ -242,11 +242,11 @@ Silas confirmed extraction orders and received their debrief:
     
 
 Silas expressed approval.  
-At this point **Grayson ████████ inexplicably stood, unzipped, and urinated onto Silas’s lap.**  
+At this point **Nelson ████████ inexplicably stood, unzipped, and urinated onto Silas’s lap.**  
 Motivation unknown. No anomaly influence detected.
 
-**Silas immediately vaporized Grayson**, reducing him to particulate matter.  
-He recorded in his internal notes that Grayson “died during the operation,” excused himself to change clothes, and ended the meeting.
+**Silas immediately vaporized Nelson**, reducing him to particulate matter.  
+He recorded in his internal notes that Nelson “died during the operation,” excused himself to change clothes, and ended the meeting.
 
 Other team members expressed shock and apologized repeatedly.
 
@@ -263,7 +263,7 @@ Operation classified as **Successful**.
 **PRIMARY TARGET:** Eradicated  
 **OGRE CLASS (“A SOW THAT NEVER WAS”):** Confirmed Dead  
 **CIVILIAN CASUALTIES:** 3 (Pre-Executioner arrival)  
-**EXECUTIONER CASUALTIES:** 1 (Grayson ████████; post-mission disciplinary death)  
+**EXECUTIONER CASUALTIES:** 1 (Nelson ████████; post-mission disciplinary death)  
 **STRUCTURAL DAMAGE:** Total destruction of penthouse interior; partial external damage  
 **RECOMMENDED FOLLOW-UP:**
 
