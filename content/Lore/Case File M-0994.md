@@ -1,20 +1,17 @@
 # **C.A.I.N. / CASE FILE — OPERATION: MARROW**
 
-**CLASSIFICATION:** RECORDED DATA ON ANOMALY ENCOUNTER
+**CLASSIFICATION:** RECORDED DATA ON ANOMALY ENCOUNTER  
 **STATUS:** _CLOSED — SUCCESSFUL ERADICATION_  
-**WATCHSITE OF ORIGIN:** ████████  
-**DEBRIEF SUBMISSION TO:** Watchsite-19 Handler “SILAS”  
-**TEAM DESIGNATION:** Quintuple ████████  
+**DEBRIEF SUBMISSION TO:** Watchsite-39 Handler “Silas”  
 **EXECUTIONERS:**
 
 - **Grayson ████████** (KIA — See Addendum S-4)
-    
+
 - **Kayla ████████**
-    
+
 - **Joselyn ████████**
-    
-- **Daniel ████████**
-    
+
+- **Daniel ████████**   
 
 ---
 
