@@ -6,7 +6,7 @@
 **Advances**: 0/3  
 -> *Rested, Agenda changed to **Machine***, 1 Advance  
 -> *Trained, Gained +1 **Coordination***, 1 Advance  
-**SCRIP**: 5  
+**SCRIP**: 3  
 -> *Comfortable Shoes*, 1 Scrip  
 -> *Improved Meal Plan*, 4 Scrip, **+1 KP**  
 

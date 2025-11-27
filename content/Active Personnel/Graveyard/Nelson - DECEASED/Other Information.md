@@ -1,6 +1,6 @@
 **XID**: *X913*  
 **CAT**: I  
-**Weapon**: Boomerang
+**Weapon**: Boomerang  
 **Level**: 0  
 **XP**: 0/4  
 **Advances**: 0/3  
