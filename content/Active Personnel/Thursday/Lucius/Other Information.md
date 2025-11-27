@@ -14,9 +14,9 @@
 -> **Success**: 1  
 -> **Failure**: 0  
 -> **Spared**: 1  
-**Success Rate**: 50%
+**Success Rate**: 50%  
 
-###### **Character Notes**
+###### **Character Notes**  
 ---
 **Lucius Colt (M, 23)**  
 Previously a quiet fixture in CAIN's laborious morgue and cleanup division, Lucius has been unexpectedly pushed into active field duty. This transition has been met with a bit of nervous eagerness and a healthy amount of dread. For someone who's spent most of his short time at CAIN around the dead he's oddly friendly and very chatty, but that doesn't change the lingering and faint smell of death following him everywhere that tends to ruin first impressions. Lucius plays as a talkative, mildly socially awkward agent whose morbid expertise proves useful in the field; he's comfortable with corpses, rituals, and post-incident sanitization, but much less knowledgeable on the living. Beneath his polite chatter is a young man who's seen far too much death, striving to prove that he can work hard, adapt, save lives, and carry a little bit of the morgue with him everywhere he goes.
