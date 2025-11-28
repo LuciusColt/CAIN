@@ -1,4 +1,4 @@
-work inside this area. • Gain or grant +1D when next acting on this power. • This power can easily affect the parameters of rolls.![[DFNS-RED-ICON-TONGUE.png]]
+![[DFNS-RED-ICON-TONGUE.png]]
 
 >YOUR WORD IS LAW
 
