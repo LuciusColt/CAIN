@@ -11,6 +11,34 @@ Below are all active directories accessible to cleared personnel.
 
 ---
 
+# **Session Structure – Drop-In / Drop-Out Play**
+
+> **Operational Scheduling Notice**  
+> CAIN field deployments occur twice weekly: **Wednesdays** and **Thursdays**.  
+> Personnel participation follows a **Drop-In / Drop-Out** protocol.
+
+We run a flexible game structure designed around player availability.  
+This means:
+
+- You are **not tied to a specific day**.
+    
+- You are **not tied to a specific party**.
+    
+- You may **join or opt out** of any session **between missions**.
+    
+- You **cannot** join or leave _mid-mission_.
+    
+- Attendance is **casual and non-binding**, keeping the story accessible for everyone.
+    
+
+Operatives are dispatched as needed, missions vary wildly, and team compositions shift dynamically.  
+Everyone can participate according to their own schedule without pressure.
+
+> If you’re new: **Join any session that fits your availability.**  
+> If you miss one: **No problem—the work marches ever onward.**
+
+---
+
 ## **Handbooks & Rule Systems**
 
 ### **[Handbook](https://cainarchive.org/Handbook/)**
