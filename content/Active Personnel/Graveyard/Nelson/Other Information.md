@@ -8,5 +8,5 @@
 # **DECEASED**
 
 **Cause of Death**:
-Urinated on Handler during mission debrief. Judgment was summarily handed out and the offender was swiftly atomized by the Handler's Defiance.
+Urinated on Handler during mission debrief. Judgment was summarily handed out and the offenders head was swiftly atomized by the Handler's Defiance.
 A formal inquiry was issued to reprimand the Handler about his handling of the situation, it was ignored.  
