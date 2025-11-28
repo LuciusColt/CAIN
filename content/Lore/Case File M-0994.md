@@ -9,7 +9,7 @@
 
 - **Vivienne ████████**
 
-- **Joselyn ████████**
+- **Lilith ████████**
 
 - **Dan ████████**   
 
@@ -93,7 +93,7 @@ Chief Ruiz provided:
 ## **IV. ANDREW UHAUL RESIDENCE**
 
 Team discovered Uhaul’s home boarded shut.  
-Forced entry performed by Joselyn.  
+Forced entry performed by Lilith.  
 Inside:
 
 - Uhaul found collapsed in a pool of his own blood
@@ -145,7 +145,7 @@ They slept behind the dumpster (Nelson’s recommendation).
 ## **VI. MEDICAL INQUIRY — DR. JASON KENNEDY**
 
 Next morning:  
-Vivienne and Joselyn visited the **Women’s & Children’s Medical Center.**  
+Vivienne and Lilith visited the **Women’s & Children’s Medical Center.**  
 Vivienne posed as a concerned friend; Dr. Kennedy accepted as a walk-in consult.  
 From him they secured:
 
@@ -177,7 +177,7 @@ Three **Traces** emerged:
     
 - Nelson fought another hand-to-hand atop its body, sustaining wounds but killing it
     
-- Dan (brass knuckles) and Joselyn (M-25 “Sparrow”) finished the last
+- Dan (brass knuckles) and Lilith (M-25 “Sparrow”) finished the last
     
 
 ### **C. MINI-BOSS: “PIGPENT”**
@@ -186,7 +186,7 @@ Team encountered PIGPENT, second-stage anomaly.
 Weapon attacks proved ineffective.  
 Nelson attempted to blast PIGPENT through a wall opening.  
 Result: **Catastrophic overuse of power** caused the _entire penthouse to explode outward_, sending all combatants into freefall.  
-Joselyn used her ability to **slow the fall of the team**, but PIGPENT plummeted uncontrolled and impacted somewhere in the fog below.
+Lilith used her ability to **slow the fall of the team**, but PIGPENT plummeted uncontrolled and impacted somewhere in the fog below.
 
 Immediately afterward, the palace **reset reality**, returning the team to the elevator.
 
@@ -208,7 +208,7 @@ Description preserved:
 
 Combat Notes:
 
-- Joselyn was seized and swallowed whole
+- Lilith was seized and swallowed whole
     
 - Vivienne performed a precision knife strike, slicing the abdomen open and killing the OGRE
     
