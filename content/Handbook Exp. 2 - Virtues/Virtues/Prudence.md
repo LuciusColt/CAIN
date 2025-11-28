@@ -2,7 +2,7 @@
 
 >The Negotiator
 
-The wielder of the powerful **Shake** blasphemy, **Prudence** is an amicable and charismatic Virtue with a very busy schedule. Aside from being a powerful combatant, Prudence serves a vital role in both CAIN’s internal structure and its relationship with mundane governments due to their unique ability to enforce deals. They have multiple cover identities, speak multiple languages, and generally have a very light freezing schedule, as CAIN deploys them on long range and long duration missions. When appearing in public, they are always exceptionally well dressed and spoken.
+The wielder of the powerful **Shake** defiance, **Prudence** is an amicable and charismatic Virtue with a very busy schedule. Aside from being a powerful combatant, Prudence serves a vital role in both CAIN’s internal structure and its relationship with mundane governments due to their unique ability to enforce deals. They have multiple cover identities, speak multiple languages, and generally have a very light freezing schedule, as CAIN deploys them on long range and long duration missions. When appearing in public, they are always exceptionally well dressed and spoken.
 
 As CAIN’s front facing emissary to human governments, their identity has been an object of speculation amongst online conspiracy theorists, something the organization has tried vehemently to suppress.
 

@@ -59,7 +59,7 @@ However:
 
 • When one of you gains an **affliction** or **hook**, both of you gain that affliction or hook.  
 • When one of you gains **strain**, you both gain that amount of strain.  
-• If either of you suffer strain overflow or instant death, this blasphemy breaks for the rest of the mission. It cannot be ended otherwise.  
+• If either of you suffer strain overflow or instant death, this defiance breaks for the rest of the mission. It cannot be ended otherwise.  
 
 After the mission, even if this power broke early:  
 
