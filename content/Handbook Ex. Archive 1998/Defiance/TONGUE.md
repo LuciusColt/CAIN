@@ -1,4 +1,4 @@
-![[DFNS-RED-ICON-TONGUE.png]]
+work inside this area. • Gain or grant +1D when next acting on this power. • This power can easily affect the parameters of rolls.![[DFNS-RED-ICON-TONGUE.png]]
 
 >YOUR WORD IS LAW
 
@@ -28,3 +28,9 @@ Your powers have no effect if you can’t speak, or if sound is suppressed someh
 **SILENCE** (*Transmute, Scene, Long*)  
 
 **Effect**: You say ‘silence’ and choose an area up to CAT size with its center at a point in range. Everything in the area completely stops producing noise. Anything mundane that would make a loud noise as part of normal part of its operation completely stops functioning, such as vehicle engines, creaky door hinges, guns, explosives, fireworks, etc. Your powers from this blasphemy or any other blasphemy or psychic effect that would create a loud noise do not work inside this area.
+
+• Gain or grant +1D when next acting on this power.  
+• This power can easily affect the parameters of rolls.  
+
+---
+
