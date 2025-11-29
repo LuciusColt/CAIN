@@ -6,6 +6,6 @@ Watchsite 1 - CAIN HQ // Salem, Massachusetts
 
 Watchsite 12 - The Glass Garden // Antarctica
 
-Watchsite 39 - Prison of Enlightenment // Seattle. Washington
+Watchsite 39 - The Panopticon // Seattle, Washington
 
 Watchsite 44 - The Pits of Hell // Tucson, AZ

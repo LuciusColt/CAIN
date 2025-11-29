@@ -11,7 +11,7 @@ Below are all active directories accessible to cleared personnel.
 
 ---
 
-# **Session Structure – Drop-In / Drop-Out Play**
+## **Session Structure – Drop-In / Drop-Out Play**
 
 > **Operational Scheduling Notice**  
 > CAIN field deployments occur twice weekly: **Wednesdays** and **Thursdays**.  
@@ -21,15 +21,10 @@ We run a flexible game structure designed around player availability.
 This means:
 
 - You are **not tied to a specific day**.
-    
 - You are **not tied to a specific party**.
-    
 - You may **join or opt out** of any session **between missions**.
-    
 - You **cannot** join or leave _mid-mission_.
-    
 - Attendance is **casual and non-binding**, keeping the story accessible for everyone.
-    
 
 Operatives are dispatched as needed, missions vary wildly, and team compositions shift dynamically.  
 Everyone can participate according to their own schedule without pressure.
@@ -52,11 +47,8 @@ The first expansion to the base system.
 Introduces:
 
 - New **Agendas**
-    
 - New **Defiance paths**
-    
 - Additional **Enemy classifications**
-    
 
 ### **[Handbook Exp. 2 – Virtues](https://cainarchive.org/Handbook-Exp.-2---Virtues/)**
 
@@ -68,14 +60,10 @@ Introduces the **Virtue System**, allowing Executioners to train under legendary
 The third and most recent expansion.  
 Adds:
 
-- New Agendas
-    
-- New Defiance paths
-    
-- Expanded Virtue mechanics
-    
-- New Enemy archetypes connected to the Harpocrates Dossier
-    
+- New **Agendas**
+- New **Defiance paths**
+- Expanded **Virtue** mechanics
+- New **Enemy classifications**
 
 ---
 
@@ -87,11 +75,8 @@ A full roster of currently deployed field operatives.
 Each profile contains:
 
 - Up-to-date **character sheets**
-    
 - **Stats**, **abilities**, and **defiance**
-    
 - Character notes and purchased **kit expansions**
-    
 
 This directory is automatically updated as missions are completed.
 
@@ -105,13 +90,9 @@ An all-encompassing archive of all narrative events.
 Session recaps are formatted as **official case files** submitted by Handlers, including:
 
 - Mission briefs
-    
 - Encounter logs
-    
 - Anomaly containment/execution reports
-    
 - Debriefs & redactions
-    
 
 Use this directory to stay up to date on the ongoing narrative.
 
@@ -125,14 +106,9 @@ Comprehensive documentation on all known Watchsites.
 Includes:
 
 - Layouts and structural notes
-    
 - Local culture, rules, and restrictions
-    
 - Staff rosters
-    
 - Anomalies housed onsite
-    
 - Player-accessible living quarters and downtime options
-    
 
 Future plans allow players to **select and inhabit** a Watchsite as their ongoing home base.
