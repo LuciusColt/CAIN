@@ -47,23 +47,23 @@ The first expansion to the base system.
 Introduces:
 
 - New **Agendas**
-- New **Defiance paths**
-- Additional **Enemy classifications**
+- New **Defiance**
+- Additional **Anomaly Classifications**
 
 ### **[Handbook Exp. 2 – Virtues](https://cainarchive.org/Handbook-Exp.-2---Virtues/)**
 
-The second expansion.  
+The second expansion to the base system.  
 Introduces the **Virtue System**, allowing Executioners to train under legendary mentors to gain unique abilities, powers, and discipline paths.
 
-### **[Handbook Exp. 3 – Harpocrates](https://cainarchive.org/Handbook-Exp.-3---Harpocrates/)**
+### **[Handbook Exp. 3 – Harpocrates Dossier](https://cainarchive.org/Handbook-Exp.-3---Harpocrates/)**
 
-The third and most recent expansion.  
+The third expansion to the base system and the current largest expansion to CAIN.  
 Adds:
 
 - New **Agendas**
-- New **Defiance paths**
-- Expanded **Virtue** mechanics
-- New **Enemy classifications**
+- New **Defiance**
+- Expanded **Virtue System**
+- New **Anomaly Classifications**
 
 ---
 

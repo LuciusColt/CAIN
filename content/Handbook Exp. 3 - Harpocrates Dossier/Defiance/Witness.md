@@ -4,7 +4,7 @@
 
 >Yellow is most likely the first color that the human eye perceives after birth.
 
->ACTIVELY MONITORED: Due to the inability to effectively decommission Witness users through amnestics, SEER actively moniters all Witness users.
+>ACTIVELY MONITORED: Due to the inability to effectively decommission Witness users through amnestics, SEER actively monitors all Witness users.
 
 ---
 
