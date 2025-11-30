@@ -8,7 +8,7 @@
 
 **IRON SOUL** (*Passive*)
 
-*When you would fill up your damage tag and gain an injury, roll 1d6. On a 4+, go to 1 damage under maximum instead and ignore any excess, then lose the use of this passive until you rest.*  
+When you would fill up your damage tag and gain an injury, roll 1d6. On a 4+, go to 1 damage under maximum instead and ignore any excess, then lose the use of this passive until you rest.  
 
 ---
 
@@ -16,9 +16,9 @@
 
 Once a scene, when you or a visible ally in short range of you would mark damage from external harm, you can intervene by answering the following questions:  
 
-• Can you reach your target in time?  
-• Is there any part of the environment you can use to shield your target?  
-• Is your heart in this? 
+- Can you reach your target in time?  
+- Is there any part of the environment you can use to shield your target?  
+- Is your heart in this? 
 
 You create a flash tension force of incredible strength, blocking damage. For each ‘yes’ answer, roll 1d6. For every 2+ rolled reduce damage suffered by 1, and for every 6 rolled reduce it by 2. This could reduce damage suffered to 0. If an ally gains an injury in the same scene, regain the use of this power.  
 
@@ -33,8 +33,8 @@ With a gesture, you can lock yourself or a CAT sized group of humans or executio
 **SEVERANCE** (*Instant, Short*)  
 You can project a tension force of incredible strength over any edge, as obvious as a blade and as subtle as a fingernail, and use it as a cutting implement. Roll MENTAL to cut an object or opponent up to CAT size with a clean and decisive blow, only spending a burst on success.  
 
-• Gain +1D if you are striking to protect another person.  
-• Gain +1D against immobile objects or opponents.  
+- Gain +1D if you are striking to protect another person.  
+- Gain +1D against immobile objects or opponents.  
 
 ---
 
@@ -42,9 +42,9 @@ You can project a tension force of incredible strength over any edge, as obvious
 
 You can invert and infuse a tension field to make an area of nonliving matter incredibly pliable and soft. The size of this block of matter you can affect is affected by CAT. Choose one of the following effects, then you may gain or grant +1D when you or any ally next acts to take advantage of this power: 
 
-• **Rubber**: The matter becomes bouncy and springy.  
-• **Mud**: The matter melts into a thick mud. It becomes pliable and sticky and difficult to move through.  
-• **Liquid**: The matter melts into liquid This power may easily effect the parameters of rolls, such as difficulty and risk. When the effect expires, the matter slowly reverts to its original state and form.  
+- **Rubber**: The matter becomes bouncy and springy.  
+- **Mud**: The matter melts into a thick mud. It becomes pliable and sticky and difficult to move through.  
+- **Liquid**: The matter melts into liquid This power may easily effect the parameters of rolls, such as difficulty and risk. When the effect expires, the matter slowly reverts to its original state and form.  
 
 ---
 

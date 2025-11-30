@@ -60,14 +60,14 @@ Gain or grant +1D to yourself or an ally that takes advantage of this power whil
 
 Change the composition of anything you can touch. Touch an object that is equal to your CAT size or smaller. You may choose to change 1 material of that object (The copper in an electronic device, water in a cup, the metal of a car, etc.) and change it into one of the following at the same temperature of the original material:
 
-• Gold  
-• Iron  
-• Water  
-• Glass  
-• Oxygen  
-• Mercury  
-• Salt  
-• Aluminum  
+- Gold  
+- Iron  
+- Water  
+- Glass  
+- Oxygen  
+- Mercury  
+- Salt  
+- Aluminum  
 
 This effect only lasts until the end of the scene. Gain or grant +1D to yourself or an ally when taking advantage of this power while it is in effect. You may choose a material not on this list to any approved by your Admin by activating the Hubris passive for this ability. Based on the rarity or danger of the material you choose the admin may immediately slash your Hubris hook by 1, 2, or 3.
 
@@ -77,8 +77,8 @@ This effect only lasts until the end of the scene. Gain or grant +1D to yourself
 
 Alter the strength and rigidity of emotions and objects alike. You may choose to target a CAT amount of people within range or an object equal to your CAT size or smaller. Apply one of the following effects:
 
-• **Brittle**: A creature’s current emotion becomes less intense, more prone to change from external influences, and impacting the decisions of the creature less. An object becomes extremely brittle, and easier to destroy or break, anything thin with any weight on it may suddenly break or shatter.
+- **Brittle**: A creature’s current emotion becomes less intense, more prone to change from external influences, and impacting the decisions of the creature less. An object becomes extremely brittle, and easier to destroy or break, anything thin with any weight on it may suddenly break or shatter.
 
-• **Harden**: A creature’s current emotion becomes more intense, harder to get rid of or change moods from, and impacting the decisions of the creature more heavily. An object becomes dense and durable, much harder to destroy or break, and can withstand more force than it normally would.
+- **Harden**: A creature’s current emotion becomes more intense, harder to get rid of or change moods from, and impacting the decisions of the creature more heavily. An object becomes dense and durable, much harder to destroy or break, and can withstand more force than it normally would.
 
 This power may easily affect the parameters of rolls, such as difficulty and risk.

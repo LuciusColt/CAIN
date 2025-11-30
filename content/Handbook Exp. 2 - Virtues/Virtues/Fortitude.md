@@ -52,6 +52,6 @@ A rare mutation of the Amplify defiance, this ability allows the very flesh and 
 
 **Spend all your remaining bursts** (min 1). For the remainder of the scene, your mundane physical abilities are now equal to CAT and fighting anomalies with mundane forces is no longer hard.  
 
-• You can push any physical action to CAT+2 instead by gaining 2d3 stress. This could inflict an injury.  
-• All weapons you use break after use unless specifically tempered. You can temper your any weapon between missions by spending 1 scrip per weapon.  
-• At the end of the scene, you take an injury and become comatose until your group rests. You recover at the start of the rest period and can otherwise rest normally.
+- You can push any physical action to CAT+2 instead by gaining 2d3 stress. This could inflict an injury.  
+- All weapons you use break after use unless specifically tempered. You can temper your any weapon between missions by spending 1 scrip per weapon.  
+- At the end of the scene, you take an injury and become comatose until your group rests. You recover at the start of the rest period and can otherwise rest normally.

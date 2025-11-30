@@ -59,9 +59,9 @@ Spend **all your remaining bursts** (min 1). For the duration of the scene, you 
 
 This power has the same function as **Null**, except it is **permanent**. It has the following effects:
 
-• You can **no longer use or be affected by defiance**.  
-• Your strain resets to 0. **You no longer gain or use strain or can enter strain overflow for any reason**.  
-• You can now spend 1d3 stress instead of a mental burst to gain +1D on any action by using your powerful physical abilities.  
-• Fighting anomalies with mundane abilities is **no longer hard**. In addition, your mundane physical abilities are about 1/2 CAT in capability.  
-• You gain **+1 max injury**.  
-• Your natural lifespan extends by 10d10 years.  
+- You can **no longer use or be affected by defiance**.  
+- Your strain resets to 0. **You no longer gain or use strain or can enter strain overflow for any reason**.  
+- You can now spend 1d3 stress instead of a mental burst to gain +1D on any action by using your powerful physical abilities.  
+- Fighting anomalies with mundane abilities is **no longer hard**. In addition, your mundane physical abilities are about 1/2 CAT in capability.  
+- You gain **+1 max injury**.  
+- Your natural lifespan extends by 10d10 years.  

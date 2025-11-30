@@ -8,7 +8,7 @@
 
 **PLAYLIST** (*Passive*)  
 
-*You have a powerful cursed object, which is the focus of your powers. It’s a music player, typically a tape player or a cd player with attached headphones. It doesn’t take KP, and you can supernaturally form and reform it in your hands at will. Make a (**real**) playlist of 6 songs at the start of each hunt. Some of your powers key off this playlist. Any music you play from this playlist can be heard diagetically (in the game) if you so choose. It appears to come from either a visible location in short range, your player, or nowhere in particular (like a soundtrack), and you can turn it on and off at will.*
+You have a powerful cursed object, which is the focus of your powers. It’s a music player, typically a tape player or a cd player with attached headphones. It doesn’t take KP, and you can supernaturally form and reform it in your hands at will. Make a (*real*) playlist of 6 songs at the start of each hunt. Some of your powers key off this playlist. Any music you play from this playlist can be heard diagetically (in the game) if you so choose. It appears to come from either a visible location in short range, your player, or nowhere in particular (like a soundtrack), and you can turn it on and off at will.
 
 ---
 
@@ -16,9 +16,9 @@
 
 **Effect**: When a scene starts, you may use this power to play a track from your playlist. Decide if the track is Melancholy, Chill, or Angsty. Gain a bonus based on the tracks’ type for the rest of the scene. 
 
-• **Melancholy**: You or any ally relieve 1 stress when they fail a roll.  
-• **Angst**: After you or an ally gains an injury, hook, or affliction, they gain +1D on their next action.  
-• **Chill**: At the end of the scene, everyone in short range of you recovers 1 stress if there was no risky or hard rolls made this scene.
+- **Melancholy**: You or any ally relieve 1 stress when they fail a roll.  
+- **Angst**: After you or an ally gains an injury, hook, or affliction, they gain +1D on their next action.  
+- **Chill**: At the end of the scene, everyone in short range of you recovers 1 stress if there was no risky or hard rolls made this scene.
 
 ---
 
@@ -46,8 +46,8 @@
 
 **Effect**: You play a track from your playlist. You can manifest in short range from you a psychic manifestation based on any part of the title, up to CAT in size or magnitude. The effect can create: 
 
-• A psychic copy of any object named in the title.  
-• A psychic copy of any human or animal in the title.  
-• A brief burst or energy, weather, or physical force (fire/rain/wind/push/pull/pressure) named in the title.  
+- A psychic copy of any object named in the title.  
+- A psychic copy of any human or animal in the title.  
+- A brief burst or energy, weather, or physical force (fire/rain/wind/push/pull/pressure) named in the title.  
 
 The manifestation lasts until you would roll for its effects or actions, until you use this power again, or until the scene passes, then it dissipates. Anything created is tangible but has an aura of unreality or ‘wrongness’ around it to regular humans, who will catch on under close inspection. It can cause tangible harm or force and interact with the physical world but is in no way obligated to follow your instructions if it can act independently. If the use of this power would cause harm, or be risky or uncertain in some way, roll MENTAL for its effects when it is used, only manifesting and spending a burst on success. Otherwise, it always takes effect.

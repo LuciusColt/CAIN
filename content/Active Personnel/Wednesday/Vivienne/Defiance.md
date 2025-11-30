@@ -19,10 +19,10 @@ When you are looking for a human, anomaly, executioner, location, or object, you
   
 Examine a human or executioner you can see in CAT range, roll MENTAL, and ask your shadow one of the following questions, plus one more per success. They answer truthfully, but can use a maximum of three words to answer each.  
 
-• Is this person lying?  
-• What is the main emotion this person is feeling?  
-• Where has this person just come from?  
-• Where are they planning to go next?  
+- Is this person lying?  
+- What is the main emotion this person is feeling?  
+- Where has this person just come from?  
+- Where are they planning to go next?  
 
 Gain or grant +1D when you or any ally next acts to take advantage of each answer.  
 
@@ -34,10 +34,10 @@ Spend a mental burst and roll MENTAL to produce a weaponized form of concentrate
 
 When your executioner produces a blast, they might:
 
-• Imbue a slash of a blade or a shot with a ranged weapon with psychic energy.  
-• Shoot an invisible ball of force from their fingers.  
-• Fire scathing lightning.  
-• Shoot a bead of frigid fire.  
+- Imbue a slash of a blade or a shot with a ranged weapon with psychic energy.  
+- Shoot an invisible ball of force from their fingers.  
+- Fire scathing lightning.  
+- Shoot a bead of frigid fire.  
 
 Unlike your mundane service weapons, blast is a superhuman weapon and therefore scales with CAT and doesn’t become hard by default when used against anomalies.
 

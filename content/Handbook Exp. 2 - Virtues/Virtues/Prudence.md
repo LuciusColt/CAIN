@@ -48,13 +48,13 @@ Roll 0d when choosing violence over negotiation.
 
 You may spend **all your remaining bursts** to instantly enforce a game from the list below on yourself and all other humans, anomalies, or executioners in range determined by CAT. Breaking the rules of the game causes excruciating pain, hemorrhaging, and eventually death. As long as the rule applies:
 
-• For you and allies, actions become harder when you must avoid breaking the rule with your actions.  
-• If through your actions you or an ally intentionally breaks the rule, you take 2d3 stress, which cannot be reduced in any way and could inflict injuries as normal.
+- For you and allies, actions become harder when you must avoid breaking the rule with your actions.  
+- If through your actions you or an ally intentionally breaks the rule, you take 2d3 stress, which cannot be reduced in any way and could inflict injuries as normal.
 
 In return:
 
-• If the target, through their actions, breaks a rule intentionally, they take 1d3 slashes on their execution tag. Humans are killed instantly. They are aware of this effect.  
-• You may set up an ally for free, three times, while the rule is active, and without rolling. Describe how you are taking advantage of the rule. Any normal effects of setup apply to these special setup actions, and you can take them without counting as an action in a conflict scene.
+- If the target, through their actions, breaks a rule intentionally, they take 1d3 slashes on their execution tag. Humans are killed instantly. They are aware of this effect.  
+- You may set up an ally for free, three times, while the rule is active, and without rolling. Describe how you are taking advantage of the rule. Any normal effects of setup apply to these special setup actions, and you can take them without counting as an action in a conflict scene.
 
 You cannot end this effect early, and it lasts for the scene.
 

@@ -22,9 +22,9 @@ You become deaf. You cannot use any of your Roar powers and taking actions witho
 
 Create an amplified sound that causes a concussive blast either centered in a **CAT area** around yourself OR in a line distance equal to your **CAT range**. This blast of sound shatters glass and fragile materials, deafens creatures that it hits for a few seconds, and is mildly harmful to structures or buildings. Roll **MENTAL** for its effects, only spending a burst on a success. Then choose one of the following on a success:
 
-• The blast is particularly harmful to structures, destroying the integrity of buildings and objects in range.  
-• The blast is particularly debilitating to creatures, who become deaf until the end of the scene.  
-• The blast is particularly harmful to one creature caught in the blast, and becomes concussed, unable to take their next reaction. This may also instantly kill a mundane human or mundane creature.  
+- The blast is particularly harmful to structures, destroying the integrity of buildings and objects in range.  
+- The blast is particularly debilitating to creatures, who become deaf until the end of the scene.  
+- The blast is particularly harmful to one creature caught in the blast, and becomes concussed, unable to take their next reaction. This may also instantly kill a mundane human or mundane creature.  
 
 You may take an additional choice by taking the **Tinnitus** hook.
 
@@ -54,9 +54,9 @@ This power may easily affect the parameters of rolls, such as difficulty and ris
 
 Forcibly alter the vibrations of everything around you up to a **CAT area** centered on yourself. While in this zone you can increase or decrease the way objects or sounds interact with the world. Choose any of the following effects to occur during the scene.
 
-• Completely silence or increase the volume of creatures, machinery, or other effects.  
-• Cause objects moving due to vibrations or aftershocks halt to a stop or increase in frequency.  
-• Capture sounds and reverberations in place, replaying them on loop.  
+- Completely silence or increase the volume of creatures, machinery, or other effects.  
+- Cause objects moving due to vibrations or aftershocks halt to a stop or increase in frequency.  
+- Capture sounds and reverberations in place, replaying them on loop.  
 
 Gain or grant +1D to yourself or an ally when taking advantage of this power while it is in effect. If you triggered the effects of this power 3 or more times during the scene, gain the **Tinnitus** hook.
 

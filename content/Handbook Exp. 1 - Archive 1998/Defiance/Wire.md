@@ -8,7 +8,7 @@
 
 **MAIN ARTERY** (*Passive*)  
 
-*You have a cell phone, with better features such as wireless internet access. It doesn’t take KP. You can produce or remove it at will, forming it from psychic energy, even if you lose it.*
+You have a cell phone, with better features such as wireless internet access. It doesn’t take KP. You can produce or remove it at will, forming it from psychic energy, even if you lose it.
 
 ---
 

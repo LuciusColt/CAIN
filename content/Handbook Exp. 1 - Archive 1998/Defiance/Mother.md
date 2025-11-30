@@ -32,10 +32,10 @@ If you lose control and have at least one Mother's Mark, you become subsumed int
 
 **Effect**: You unravel your skin, muscle, and organs into a pulsing mass. You can reform body parts such as hands, mouths, eyes, or teeth anywhere in this mass at will. While in this form:
 
-• You cannot use or benefit from your own psychic powers (other than this one), but psychic powers or effects from others can still affect you.  
-• You can spread through spaces as small as a sink pipe, spread out your total mass over an area equal to CAT, or compact your mass into a tight shape about the size of a piece of luggage.  
-• Roll MENTAL for any effects you'd use this form for while it's active.  
-• Humans are typically terrified by this form, and the next action against a human or group of humans after taking this form takes +1D.  
+- You cannot use or benefit from your own psychic powers (other than this one), but psychic powers or effects from others can still affect you.  
+- You can spread through spaces as small as a sink pipe, spread out your total mass over an area equal to CAT, or compact your mass into a tight shape about the size of a piece of luggage.  
+- Roll MENTAL for any effects you'd use this form for while it's active.  
+- Humans are typically terrified by this form, and the next action against a human or group of humans after taking this form takes +1D.  
 
 When your party rests, or when you end this power, you reform in any area that has enough space for you that your mass is touching. If there is no room for you, you instead reform when there is space.
 
@@ -55,9 +55,9 @@ Additionally, any number of times while active, you can take 1 strain to use a d
 
 **Passive**: When you gain any amount of stress, you can capture it's negative energy without spending a burst, appearing as a raised knot in your skin. Reduce stress suffered by 2 for each knot gained. You can capture up to 3 knots. At the end of any scene in which you have one or more knots, roll 1d6. When a knot bursts, you take 2 irreducible stress.
 
-• On a **1-3**, take 1d3 strain and burst a knot.  
-• On a **4-5**, take 1 strain and burst a knot.  
-• On a **6**, take no strain and burst a knot.
+- On a **1-3**, take 1d3 strain and burst a knot.  
+- On a **4-5**, take 1 strain and burst a knot.  
+- On a **6**, take no strain and burst a knot.
 
 ---
 
@@ -71,5 +71,5 @@ Additionally, any number of times while active, you can take 1 strain to use a d
 
 **Effect**: Your limb peels apart its flesh and skin, then lashes at a target in short range like a whip, dealing harm or pulling them some distance. Roll MENTAL for its effects. 
 
-• Gain +1D if you have 3 or fewer strain boxes remaining.  
-• Gain +2 CAT if you have strain overflowed this mission.
+- Gain +1D if you have 3 or fewer strain boxes remaining.  
+- Gain +2 CAT if you have strain overflowed this mission.

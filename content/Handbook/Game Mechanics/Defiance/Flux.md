@@ -22,7 +22,7 @@
 
 **STEAL TIME** (*Passive*)
 
-*Once a mission, you can reroll all your resting dice for yourself or an ally, taking the second result as final.*  
+Once a mission, you can reroll all your resting dice for yourself or an ally, taking the second result as final.  
 
 ---
 
@@ -30,8 +30,8 @@
 
 You spend up to three bursts to stop local time in an area around you equal to CAT. Roll 1d6 per burst spent and add them together - that is how many seconds you have. Anything that enters this area is immediately affected (including anything put into or out of the area), but time flows normally outside the area. In this stopped time, you are unaffected and:  
 
-• You cannot use psychic powers, but neither can you be affected by them. Any power currently active from you or affecting you other than this one dissipates.  
-• You can perform one activity or course of action that fits in the duration. After you would make an action roll for anything, the effect ends no matter what.  
+- You cannot use psychic powers, but neither can you be affected by them. Any power currently active from you or affecting you other than this one dissipates.  
+- You can perform one activity or course of action that fits in the duration. After you would make an action roll for anything, the effect ends no matter what.  
 
 >Then, gain Temporal Instability  
 
@@ -41,8 +41,8 @@ You spend up to three bursts to stop local time in an area around you equal to C
 
 You can accelerate the natural healing of your body or those of others, giving you the following benefits:
 
-• Immediately heal 1d3 damage on yourself or another target.  
-• You may heal a CAT sized group of dying or injured humans in short range. Dying humans are stabilized and no longer in danger of expiring, but fall unconscious. Otherwise, badly injured humans are healed to the point of being able to (slowly) move by themselves. Minor injuries are fully healed.  
+- Immediately heal 1d3 damage on yourself or another target.  
+- You may heal a CAT sized group of dying or injured humans in short range. Dying humans are stabilized and no longer in danger of expiring, but fall unconscious. Otherwise, badly injured humans are healed to the point of being able to (slowly) move by themselves. Minor injuries are fully healed.  
 
 >Then, gain temporal instability  
 
@@ -52,9 +52,9 @@ You can accelerate the natural healing of your body or those of others, giving y
 
 By touching an object up to CAT size, you can reverse its passage through time for the last hour.
 
-• This could physically move the object, revert damage on an object, etc.  
-• It can still affect the physical world, so anything in a reversing object’s way would get hit, and anything placed on it will move with it.  
-• If it would cause damage or impact, roll MENTAL for it • It cannot reverse life on non-living matter, such as corpses, but can temporarily move them and revert damage as if they were alive.  
+- This could physically move the object, revert damage on an object, etc.  
+- It can still affect the physical world, so anything in a reversing object’s way would get hit, and anything placed on it will move with it.  
+- If it would cause damage or impact, roll MENTAL for it - It cannot reverse life on non-living matter, such as corpses, but can temporarily move them and revert damage as if they were alive.  
 You can stop this effect by willing it, but to resume it requires using this power again.  
 
 ---
@@ -63,9 +63,9 @@ You can stop this effect by willing it, but to resume it requires using this pow
 
 You can create a bubble of altered time equal to CAT area. Inside the bubble, you open a window into one day in the past or future from the moment the bubble was created. Gain or grant +1D when you or any ally next acts to take advantage of this power:  
 
-• The state of the area inside the bubble is confined only to the bubble and includes objects or people inside. You and allies can enter or exit the bubble at will.  
-• Supernatural beings, including executioners, in the present timeline caught in the bubble when it is created are unaffected. Humans and the ‘present’ timeline world caught in the bubble are ‘paused’, cease existing for its duration, and have no memory of the incident.  
-• Things removed from the bubble from the past or future timeline, including living beings, simply disappear until they move back into the bubble.  
+- The state of the area inside the bubble is confined only to the bubble and includes objects or people inside. You and allies can enter or exit the bubble at will.  
+- Supernatural beings, including executioners, in the present timeline caught in the bubble when it is created are unaffected. Humans and the ‘present’ timeline world caught in the bubble are ‘paused’, cease existing for its duration, and have no memory of the incident.  
+- Things removed from the bubble from the past or future timeline, including living beings, simply disappear until they move back into the bubble.  
 
 The bubble represents an ‘alternate’ timeline, so anything altered inside of it will not show up in the present or future timeline (i.e. leaving an object in a past timeline will not have it show up in the present).  
 

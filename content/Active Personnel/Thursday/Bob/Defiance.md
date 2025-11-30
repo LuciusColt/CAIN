@@ -31,11 +31,11 @@
 
 For the scene, you can bond incredibly tightly with an item you are holding in one or both hands.  
 
-• You are now resonant with that item. It is still mundane.  
-• You can now use it as a mundane cutting or bludgeoning weapon even if it wouldn’t normally be a weapon. It has about the power of a CAT 0 bat or sword.  
-• The item becomes virtually indestructible.  
-• You can cause the item to recall to your hand, flying through the air, from within short distance.  
-• You can discharge this power to make a strike with the object, granting it supernatural destructive power equal to CAT (it gains +1D on the roll as normal due to resonance). Then end this effect and destroy the item.
+- You are now resonant with that item. It is still mundane.  
+- You can now use it as a mundane cutting or bludgeoning weapon even if it wouldn’t normally be a weapon. It has about the power of a CAT 0 bat or sword.  
+- The item becomes virtually indestructible.  
+- You can cause the item to recall to your hand, flying through the air, from within short distance.  
+- You can discharge this power to make a strike with the object, granting it supernatural destructive power equal to CAT (it gains +1D on the roll as normal due to resonance). Then end this effect and destroy the item.
 
 ---
 
@@ -67,9 +67,9 @@ Spend a mental burst and roll MENTAL to produce a weaponized form of concentrate
 
 When your executioner produces a blast, they might:
 
-• Imbue a slash of a blade or a shot with a ranged weapon with psychic energy.  
-• Shoot an invisible ball of force from their fingers.  
-• Fire scathing lightning.  
-• Shoot a bead of frigid fire.  
+- Imbue a slash of a blade or a shot with a ranged weapon with psychic energy.  
+- Shoot an invisible ball of force from their fingers.  
+- Fire scathing lightning.  
+- Shoot a bead of frigid fire.  
 
 Unlike your mundane service weapons, blast is a superhuman weapon and therefore scales with CAT and doesn’t become hard by default when used against anomalies.

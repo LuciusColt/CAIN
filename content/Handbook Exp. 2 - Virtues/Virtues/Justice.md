@@ -57,10 +57,10 @@ You can only use words from the list below.
 
 Then, choose one effect:
 
-• **Grant up to three advantage die** (total) to an ally while the court is active. These can be given out one at a time or all at once.  
-• **Instantly kill all humans** in the area or that enter the area while the court is active.  
-• **Slash a tag** by rolling MENTAL. This gains +1D and deals +1 slash on at least one success.  
-• **Make something specific less hard, or less risky** while the court is active.
+- **Grant up to three advantage die** (total) to an ally while the court is active. These can be given out one at a time or all at once.  
+- **Instantly kill all humans** in the area or that enter the area while the court is active.  
+- **Slash a tag** by rolling MENTAL. This gains +1D and deals +1 slash on at least one success.  
+- **Make something specific less hard, or less risky** while the court is active.
 
 This power may easily affect the parameters of rolls while in the area, and may make it so rolls are not even required for certain tasks.
 

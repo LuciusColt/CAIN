@@ -10,9 +10,9 @@
 
 You may dump energy into the ground and anything touching the ground in an area determined by CAT+2, choosing hot or cold. Choose one of the following effects, which lasts until you rest. You may gain or grant +1D when you or any ally next acts to take advantage of this power:  
 
-• **Simmer**: Discomfort for humans, lowered or raised temperature, hot or cold surfaces, etc.  
-• **Poach**: Major discomfort for humans, who cannot remain in the area, and discomfort for anomalies and executioners. Freeze or boil water, pipes, crack glass, etc.  
-• **Boil**: Deadly to humans, anomalies and executioners take 2 damage if they remain in the area for longer than a scene. Light fires or freeze the air in rooms, melt windows or burn doors, or freeze objects. 
+- **Simmer**: Discomfort for humans, lowered or raised temperature, hot or cold surfaces, etc.  
+- **Poach**: Major discomfort for humans, who cannot remain in the area, and discomfort for anomalies and executioners. Freeze or boil water, pipes, crack glass, etc.  
+- **Boil**: Deadly to humans, anomalies and executioners take 2 damage if they remain in the area for longer than a scene. Light fires or freeze the air in rooms, melt windows or burn doors, or freeze objects. 
 
 This power may effect the parameters of rolls, such as difficulty and risk.  
 
@@ -46,9 +46,9 @@ Spend a mental burst and roll MENTAL to produce a weaponized form of concentrate
 
 When your executioner produces a blast, they might:
 
-• Imbue a slash of a blade or a shot with a ranged weapon with psychic energy.  
-• Shoot an invisible ball of force from their fingers.  
-• Fire scathing lightning.  
-• Shoot a bead of frigid fire.  
+- Imbue a slash of a blade or a shot with a ranged weapon with psychic energy.  
+- Shoot an invisible ball of force from their fingers.  
+- Fire scathing lightning.  
+- Shoot a bead of frigid fire.  
 
 Unlike your mundane service weapons, blast is a superhuman weapon and therefore scales with CAT and doesn’t become hard by default when used against anomalies.

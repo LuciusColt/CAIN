@@ -52,17 +52,17 @@ You roll 0d when trying to hide, stealth, or avoid notice.
 
 You entangle your mind with another’s in a loving embrace. **Without spending a burst**, choose another willing executioner. For the duration of the mission, gain the following effects:
 
-• When one of you gains or loses **stress** or spends or gains a **burst**, you may spend or assign it to **either person**, no matter the distance. Harm, stress, etc, supernaturally appears on each other’s bodies. Anything transferred like this cannot be reduced in any way.  
-• You can telepathically communicate with that person over extreme distance. You also feel any strong emotion they feel reflexively, even involuntarily.
+- When one of you gains or loses **stress** or spends or gains a **burst**, you may spend or assign it to **either person**, no matter the distance. Harm, stress, etc, supernaturally appears on each other’s bodies. Anything transferred like this cannot be reduced in any way.  
+- You can telepathically communicate with that person over extreme distance. You also feel any strong emotion they feel reflexively, even involuntarily.
 
 However:  
 
-• When one of you gains an **affliction** or **hook**, both of you gain that affliction or hook.  
-• When one of you gains **strain**, you both gain that amount of strain.  
-• If either of you suffer strain overflow or instant death, this defiance breaks for the rest of the mission. It cannot be ended otherwise.  
+- When one of you gains an **affliction** or **hook**, both of you gain that affliction or hook.  
+- When one of you gains **strain**, you both gain that amount of strain.  
+- If either of you suffer strain overflow or instant death, this defiance breaks for the rest of the mission. It cannot be ended otherwise.  
 
 After the mission, even if this power broke early:  
 
-• Both of your physical appearances change to match the other (your eye or hair color, age, gender, height, body or face shape, etc). Each of you chooses a feature to share with the other. The process takes about three days and is unpleasant*.
+- Both of your physical appearances change to match the other (your eye or hair color, age, gender, height, body or face shape, etc). Each of you chooses a feature to share with the other. The process takes about three days and is unpleasant*.
 
 >*Prolonged use of this power over time will lead to a physical and mental merge that is described by Charity as the purest form of bliss. This has not been verified by Temerity.

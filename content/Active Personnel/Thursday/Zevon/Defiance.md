@@ -28,8 +28,8 @@ Many of your powers give you this hook. When the hook resolves, roll 1d6:
 
 You spend up to three bursts to stop local time in an area around you equal to CAT. Roll 1d6 per burst spent and add them together - that is how many seconds you have. Anything that enters this area is immediately affected (including anything put into or out of the area), but time flows normally outside the area. In this stopped time, you are unaffected and: 
 
-• You cannot use psychic powers, but neither can you be affected by them. Any power currently active from you or affecting you other than this one dissipates.  
-• You can perform one activity or course of action that fits in the duration. After you would make an action roll for anything, the effect ends no matter what.  
+- You cannot use psychic powers, but neither can you be affected by them. Any power currently active from you or affecting you other than this one dissipates.  
+- You can perform one activity or course of action that fits in the duration. After you would make an action roll for anything, the effect ends no matter what.  
 
 >Then, gain Temporal Instability  
 
@@ -49,9 +49,9 @@ Spend a mental burst and roll MENTAL to produce a weaponized form of concentrate
 
 When your executioner produces a blast, they might:
 
-• Imbue a slash of a blade or a shot with a ranged weapon with psychic energy.  
-• Shoot an invisible ball of force from their fingers.  
-• Fire scathing lightning.  
-• Shoot a bead of frigid fire.  
+- Imbue a slash of a blade or a shot with a ranged weapon with psychic energy.  
+- Shoot an invisible ball of force from their fingers.  
+- Fire scathing lightning.  
+- Shoot a bead of frigid fire.  
 
 Unlike your mundane service weapons, blast is a superhuman weapon and therefore scales with CAT and doesn’t become hard by default when used against anomalies.

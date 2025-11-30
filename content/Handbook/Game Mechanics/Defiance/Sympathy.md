@@ -8,7 +8,7 @@
 
 **RESONANCE** (*Passive*)
 
-*At the start of the mission, roll on the resonance table. When you make this roll, 1d3, then 1d6, then check the resonance tables listed below. When you are making an action roll and you are using an item you are resonant with, you gain a +1D bonus. You can spend a burst any time to roll an additional resonance. You can keep up to three at a time, and only benefit from one at a time.*
+At the start of the mission, roll on the resonance table. When you make this roll, 1d3, then 1d6, then check the resonance tables listed below. When you are making an action roll and you are using an item you are resonant with, you gain a +1D bonus. You can spend a burst any time to roll an additional resonance. You can keep up to three at a time, and only benefit from one at a time.
 
 | **Resonance Table**: | **1d3** + **1d6** |
 | -------------------- | ----------------- |
@@ -37,11 +37,11 @@
 
 For the scene, you can bond incredibly tightly with an item you are holding in one or both hands. 
 
-• You are now resonant with that item. It is still mundane.  
-• You can now use it as a mundane cutting or bludgeoning weapon even if it wouldn’t normally be a weapon. It has about the power of a CAT 0 bat or sword.  
-• The item becomes virtually indestructible.  
-• You can cause the item to recall to your hand, flying through the air, from within short distance.  
-• You can discharge this power to make a strike with the object, granting it supernatural destructive power equal to CAT (it gains +1D on the roll as normal due to resonance). Then end this effect and destroy the item.
+- You are now resonant with that item. It is still mundane.  
+- You can now use it as a mundane cutting or bludgeoning weapon even if it wouldn’t normally be a weapon. It has about the power of a CAT 0 bat or sword.  
+- The item becomes virtually indestructible.  
+- You can cause the item to recall to your hand, flying through the air, from within short distance.  
+- You can discharge this power to make a strike with the object, granting it supernatural destructive power equal to CAT (it gains +1D on the roll as normal due to resonance). Then end this effect and destroy the item.
 
 ---
 
@@ -49,10 +49,10 @@ For the scene, you can bond incredibly tightly with an item you are holding in o
 
 You can touch objects to remotely view their memories. You can view back a number of days equal to your CAT. Roll MENTAL, then ask a question plus an additional question per success. Gain +1D when next acting on the answers.  
 
-• Where has this object been?  
-• Who has touched this object?  
-• What has this object been used for?  
-• What else is this object connected to?  
+- Where has this object been?  
+- Who has touched this object?  
+- What has this object been used for?  
+- What else is this object connected to?  
 
 Memories of an object are impressionist and and imprecise, and they are only usually ‘aware’ of their very immediate surroundings.
 
@@ -62,9 +62,9 @@ Memories of an object are impressionist and and imprecise, and they are only usu
 
 You can expand the mundane properties of a regular non-weapon item to extreme levels. You touch a mundane object up to CAT size. For the scene, you automatically have resonance with it, and its properties are enhanced to extreme levels, as if they were up to your CAT in scale. For example:
 
-• A car’s speed, handling, and resilience.  
-• A light’s brightness and intensity, and the area it illuminates.  
-• A door’s ability to lock and withstand force.  
+- A car’s speed, handling, and resilience.  
+- A light’s brightness and intensity, and the area it illuminates.  
+- A door’s ability to lock and withstand force.  
 
 This can easily affect the difficulty and risk of rolls. The object is still mundane.
 
