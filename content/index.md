@@ -55,7 +55,7 @@ Introduces:
 The second expansion to the base system.  
 Introduces the **Virtue System**, allowing Executioners to train under legendary mentors to gain unique abilities and powers.
 
-### **[Handbook Exp. 3 – Harpocrates Dossier](https://cainarchive.org/Handbook-Exp.-3---Harpocrates/)**
+### **[Handbook Exp. 3 – Harpocrates Dossier](https://cainarchive.org/Handbook-Exp.-3---Harpocrates-Dossier/)**
 
 The third expansion to the base system and the current largest expansion to CAIN.  
 Adds:
@@ -103,7 +103,7 @@ Use this directory to stay up to date on the ongoing narrative.
 ### **[Watchsites](https://cainarchive.org/Watchsites/)**
 
 Comprehensive documentation on all known Watchsites.  
-Includes:
+Includes: 
 
 - Layouts and structural notes
 - Local culture, rules, and restrictions
