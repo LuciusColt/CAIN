@@ -53,7 +53,7 @@ Introduces:
 ### **[Handbook Exp. 2 – Virtues](https://cainarchive.org/Handbook-Exp.-2---Virtues/)**
 
 The second expansion to the base system.  
-Introduces the **Virtue System**, allowing Executioners to train under legendary mentors to gain unique abilities, powers, and discipline paths.
+Introduces the **Virtue System**, allowing Executioners to train under legendary mentors to gain unique abilities and powers.
 
 ### **[Handbook Exp. 3 – Harpocrates Dossier](https://cainarchive.org/Handbook-Exp.-3---Harpocrates/)**
 
