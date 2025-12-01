@@ -26,6 +26,7 @@ When you need any mundane object, tool, or vehicle that could fit in a small roo
 - The item is a real item that someone nearby owned and has now disappeared, and they will come looking for it.  
 - The item is ‘off’ somehow and appears as a cheap knockoff made of odd materials that feel spongey or organic.  
 - The item is missing some parts and doesn’t work as well as it could with them.  
+
 The item cannot be a unique item, etc you cannot create a particular car, key, book, etc, but is rather a generic representative of a category. It disappears after a rest.
 
 ---

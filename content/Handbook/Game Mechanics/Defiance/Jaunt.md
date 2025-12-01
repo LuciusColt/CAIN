@@ -28,9 +28,9 @@ This power ends when you open your eyes or when you rest.
 
 You can link your memories to those of corpses, up to CAT number of humans or executioners by touching them on the eyes. You may ask the corpse(s) three questions total (no matter how many you link to), after which the effect ends and they no longer can be linked with. It also expires if the hour passes.  
 
-- You can’t use this power on the same corpse more than once  
-- The power ***does not return life to the body***, but accesses the body’s memories. If the head or brain is missing, or the body lacks a tongue, etc, this power will not work as well.  
-- A corpse is obligated to answer truthfully, but can only speak to the realm of its knowledge and memories before it died. It may have only partial knowledge of a situation or may speak according to its own viewpoint.  
+- You can’t use this power on the same corpse more than once.  
+- This power ***does not return life to the body***, instead accessing the body’s memories. If the head or brain is missing, this power will not work as well.  
+- The corpse's mind is obligated to answer truthfully, but can only speak to the realm of its knowledge and memories before it died. It may have only partial knowledge of a situation or may speak according to its own viewpoint.  
 
 Gain or grant +1D when you or an ally next acts on the answers.  
 

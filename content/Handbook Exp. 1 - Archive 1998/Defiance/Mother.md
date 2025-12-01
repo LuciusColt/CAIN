@@ -2,7 +2,8 @@
 
 >SHE WON'T GET OUT OF MY HEAD!
 
->**Request denied**. HOP effectiveness of mother's infected assets outweighs her potential risk, despite the House's increased antipathy towards her. We will continue collect and train them when possible, and dispatch instant execution when unable to safely recover assets,  
+>**Request denied**.  
+>HOP effectiveness of mother's infected assets outweighs her potential risk, despite the House's increased antipathy towards her. We will continue to collect and train them when possible, and dispatch instant execution when unable to safely recover assets,  
 >As above, so below.  
 >Lower first,  
 >Castle Director F. Espada  

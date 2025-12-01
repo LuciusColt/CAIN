@@ -10,6 +10,7 @@
 You can improve the CAT of any of your Smother powers by +2 when you use them, to a max CAT of 7. However, when you do, gain the Absentia Hook.  
 
 Absentia: You can gain this hook with your passive. If this hook fills up, you take an injury and black out for a few moments. When you wake up, you are missing a body part (roll 1d6). It simply disappears (cleanly) as though it had never existed, leaving a stump or hole. It doesn't come back, even if you heal the injury If you have no body part left to lose (when you roll), reduce the result by 1. If the result is 0, you lose your head and suffer (gruesome) Instant Death instead. Missing body parts might make some rolls hard or risky, dependent on the situation. You adjust to any disability after the mission, and it has no further effect.  
+
 0. Head
 1. Eye  
 2. Nose  

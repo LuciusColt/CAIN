@@ -70,8 +70,9 @@ Additional effects are up to the GM and can be improvised depending on the ficti
 
 ## TERMS OF LAW
 
-| 1.  | Fast              | 11. | Arrows | 21. | Fire      |
+|     |                   |     |        |     |           |
 | --- | ----------------- | --- | ------ | --- | --------- |
+| 1.  | Fast              | 11. | Arrows | 21. | Fire      |
 | 2.  | Slow              | 12. | Blades | 22. | Water     |
 | 3.  | Sticks            | 13. | Solid  | 23. | Air       |
 | 4.  | Stones            | 14. | Liquid | 24. | Forbidden |

@@ -1,5 +1,5 @@
 Objective:  
-► Enrich yourself
+► Enrich yourself  
 ► **Give something valuable away**
 
 Abilities:  
