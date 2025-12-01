@@ -8,28 +8,11 @@
 
 #### **SANCTUM** (*Passive*)  
 
-You and allies you rest with can enter your psychic palace while resting. This improves the resting rolls of yourself and up to one ally of your choice resting with you by +1.  
+You and allies you rest with can enter your psychic palace while resting. This improves the resting rolls of yourself and one ally of your choice resting with you by +1. 
 
-- The palace is a mental projection, a dream space that takes the form of a large home, residence, or mansion in a locale of your choosing. Walking off the premises merely returns you to the locale, and as a purely psychic phenomena, you can control its appearance and decor.  
-- Taking harm in a palace instantly shunts a person out of it, waking them up, instead of dealing them real harm. Visitors can leave any time.  
-- Entering the palace mentally requires only closing your eyes and concentrating, leaving your outside body defenseless and insensate. It can be done by you any time, and by your allies by resting with you, or with your powers.
-
----
-
-#### ☆★ **FOYER** (*Summon*)
-
-Your palace has a tulpa, a psychic being that takes the form of a servant or butler. They are loyal to you, you can determine their personality and appearance. Though they are casually around the palace whenever you wish even without the use of this power, you can summon them with this power, choosing one:  
-
-- Have your tulpa aid you on a task related to research, crafting, or investigation, granting +1D on your next roll and making an extra slash on a tag for each ‘6’ you roll.  
-- Briefly manifest your tulpa outside your palace in short range as a real person, a mirror of their appearance inside your palace but dressed any way you like. They have roughly the capabilities of an average person (CAT 0) and roll 2d for activities that a typical servant or butler could do and 0d for everything else.  
-
-Any harm taken by them banishes them back to the palace.
-
----
-
-#### ★ **PARLOR** (*Scene, Investigation Area*)
-
-Choose one person or up to a CAT sized group of people in the investigation area and speak their (real) name aloud. You can bring yourself and their psychic shadow inside your palace, no matter where they are. If your target(s) are willing, you can choose to bring their actual psychic consciousness inside your palace, making them aware and remember what is going on while inside, as though in a dream. Their real body becomes unconscious and vulnerable. They can leave willingly. You can instead bring a psychic double of a willing or unwilling person into your palace. They are not affected, but the double is a copy of their mind at the time of summoning. Any memories formed by the double will not transfer over. The double cannot leave until the scene ends. A person or double summoned this way is not obligated in any way to behave differently than their original. Gain or grant +1D on the next roll by yourself or an ally taking advantage of this power.
+- The palace is a mental projection, a dream space that takes the form of a large home, residence, or mansion in a locale of your choosing. Walking off the premises merely returns to you the locale, and as a purely psychic phenomena, you can control its appearance and decor. 
+- Taking harm in a palace instantly shunts a person out of it, waking them up, instead of dealing them real harm. Visitors can leave any time. 
+- Entering the palace mentally requires only closing your eyes and concentrating, leaving your outside body defenseless and insensate. It can be done by you any time, and by your allies by resting with you, or with your powers
 
 ---
 
@@ -40,22 +23,50 @@ You can simulate situations inside your palace before putting them into practice
 ---
 
 #### ☆ **LIBRARY** (*Instant, Self*)  
-This power does not take a burst. Your palace has a library of information from the psychic gestalt. When you wish to gather information on or investigate any subject, you can gain +1D on the roll by accessing this library. However, afterwards the Admin rolls 1d6 for each of the following:
 
-- Is the information rare?  
-- Is the information forbidden in some way?  
-- Is the information pertinent to a powerful group?  
+Your palace has a library of information from the psychic gestalt. When you wish to gather information on or investigate any subject, you can gain +1D on the roll by accessing this library. However, afterwards the Admin rolls 1d6 for each of the following: 
 
-For each ‘1’, you take 1 nonlethal stress as you read something disturbing in the library.  
+- Is the information rare? 
+- Is the information forbidden in some way? 
+- Is the information pertinent to a powerful group? 
+
+For each ‘1’, you take 2 nonlethal stress as you read something disturbing in the library.
 
 ---
 
-#### ☆ **BAR** (*Self, Scene*)  
+#### ☆★ **FOYER** (*Summon*)
 
-This power does not take a burst. You can open any closed door and open it to your (actual, physical) bar instead of the room you would expect. It is a well stocked, typical small bar, including snacks, a couple hot plates, and non-alcoholic drinks. It restocks between missions. The bar only exists while you are inside or hold the door, and outside items or people inside are pushed out before it disappears. When you rest in your bar, you can roll 1d3+1, and do one of the following, spending charges of the die you have just rolled per option:  
+**Passive**: Your palace has a tulpa, a psychic being that takes the form of a servant or butler. They are loyal to you, and you can determine their personality and appearance when you take this power. 
 
-- 1 charge: Erase 1 stress on one person.  
-- 2 charges: Untick 1 tick on all hooks for a person.  
-- 3 charges: Remove an injury.  
+**Active**: You summon your tulpa, choosing one: 
+
+- Have your tulpa aid you on a task related to research, crafting, or investigation, granting +1D on your next roll and making an extra slash on a tag for each ‘6’ you roll. 
+- Briefly manifest your tulpa outside your palace in short range as a real person, a mirror of their appearance inside your palace but dressed any way you like. They have roughly the capabilities of an average person (cat 0) and roll 2d for activities that a typical servant or butler could do and 0d for everything else. Any harm taken by them banishes them back to the palace.
+
+---
+
+#### ★ **PARLOR** (*Scene, Investigation Area*)
+
+Choose one person or up to a CAT sized group of people in the investigation area and speak their (real) name(s) aloud. You can bring yourself and their psychic shadow inside your palace, no matter where they are. 
+
+If your target(s) are willing, you can choose to bring their actual psychic consciousness inside your palace, making them aware and remember what is going on while inside, as though in a dream. Their real body becomes unconscious and vulnerable. They can leave willingly. 
+
+You can instead bring a psychic double of a willing or unwilling person into your palace. They are not affected, but the double is a copy of their mind at the time of summoning. Any memories formed by the double will not transfer over. The double cannot leave until the scene ends, or until they take harm as usual. 
+
+A person or double summoned this way is not obligated in any way to behave differently than their original. 
+
+Gain or grant +1D on the next roll by yourself or an ally taking advantage of this power.
+
+---
+
+#### ☆ **BAR** (*Self, 1/Scene*)  
+
+Once a scene, you can open any closed door and open it to your (actual, physical) bar instead of the room you would expect. It is a well stocked, typical small bar, including snacks, a couple hot plates, and alcoholic and non-alcoholic drinks. It restocks between missions. The bar only exists while you are inside or hold the door, and outside items or people inside are pushed out before it disappears. 
+
+When you rest in your bar, you can roll 1d3+1, and do one of the following, spending charges of the die you have just rolled per option: 
+
+- 1 charge: Erase 1 stress on one person. 
+- 2 charges: Untick 1 tick on all hooks for a person. 
+- 3 charges: Remove an injury. 
 
 For each, describe a drink, snack, meal, or other form of relaxation or healing you are preparing for your guest.

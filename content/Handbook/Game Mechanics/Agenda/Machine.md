@@ -7,6 +7,6 @@ Abilities:
 ► **Brain Burst**: When investigating or researching something, you can take 1 nonlethal stress to re-roll one die on your action roll. The re-roll is final.  
 ► **Second Wind**: When pressure hits 4, relieve all stress or remove an affliction.  
 ► **Overtime**: You can gain +1D on all actions to investigate, analyze, or gather information for the duration of a scene, but you lose the use of this ability and all other activities are hard until you rest.  
-► **Neat Little Universe**: Twice a hunt, outside conflict, you can tick any tag on your sheet or an ally’s up or down by 1
+► **Neat Little Universe**: Twice a hunt, outside conflict, you can tick any tag on your sheet or an ally’s up or down by 1.
 
 > If your group rests you can choose to exclude yourself from resting.

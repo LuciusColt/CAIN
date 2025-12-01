@@ -3,13 +3,13 @@ title: ▽ AS ABOVE, SO BELOW
 ---
 # **CAIN ARCHIVE – HOME**
 
->Please your honours, said he, I'm able,  
->By means of a secret charm, to draw  
->All creatures living beneath the sun,  
->That creep, or swim, or fly, or run,  
->After me so as you never saw!  
->And I chiefly use my charm  
->On creatures that do people harm.  
+>*Please your honours, said he, I'm able,*  
+>*By means of a secret charm, to draw*  
+>*All creatures living beneath the sun,*  
+>*That creep, or swim, or fly, or run,*  
+>*After me so as you never saw!*  
+>*And I chiefly use my charm*  
+>*On creatures that do people harm.*  
 
 ---
 ## **Welcome to the Cain Archives!**  

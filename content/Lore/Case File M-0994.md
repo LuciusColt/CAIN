@@ -33,15 +33,10 @@ Location: Hotel ████████, Downtown Seattle.
 The Executioners approached **Viktor Mulder**, who displayed:
 
 - Visible anxiety and fidgeting
-    
 - Lack of genuine concern for missing wife
-    
 - Zero request for credentials (indicative of assumption the team were _private investigators_)
-    
 - Strong trace of unfamiliar **women’s perfume** in room
-    
 - Immediate phone silencing when called by **“ROBIN (Secretary)”**
-    
 
 Team suspicion: **Active infidelity.**  
 Viktor dismissed the team with minimal useful information.
@@ -54,19 +49,14 @@ The team intercepted **Robin**, Viktor’s secretary, outside their shared real 
 Under questioning (primarily by Executioner Dan), Robin:
 
 - Exhibited signs of guilt and agitation
-    
 - Confirmed ongoing affair with Viktor
-    
 - Revealed they recently traveled together on a “business trip”
-    
 - Provided office keys in a panic and fled via cab
-    
 
 Inside the office, Vivienne successfully lockpicked a secured cabinet.  
 Contents recovered:
 
 - Multiple photographs of Viktor and Robin engaged in sexual acts
-    
 
 Photos confiscated for leverage/evidence.
 
@@ -78,15 +68,10 @@ Fire Chief **Lena Ruiz** identified the Executioners as armed operatives despite
 Chief Ruiz provided:
 
 - **Disposable face masks**
-    
 - Access to a sealed rear room containing **massively rotted hazmat suits**
-    
 - Evidence that **all proximate electronics corroded or shorted**
-    
 - Report of missing firefighter: **Andrew “Andy” Uhaul**
-    
 - Note: Andy was **the only casualty to enter the penthouse and return alive**
-    
 
 ---
 
@@ -97,13 +82,9 @@ Forced entry performed by Lilith.
 Inside:
 
 - Uhaul found collapsed in a pool of his own blood
-    
 - Exhibited **gibbering speech**, nonsensical, cognitively destroyed
-    
 - Expired minutes after discovery
-    
 - No actionable intel recovered
-    
 
 Team elected to move on.
 
@@ -114,27 +95,21 @@ Team elected to move on.
 The Marrow required:
 
 - **Elevator keycard** (known to be in Viktor’s possession)
-    
 - **Secondary access key**
-    
 
 The team returned to Viktor’s hotel room.  
 Dan forcibly kicked open the door, the doorknob striking Viktor unconscious on impact.  
 The team **ransacked the room**, retrieving:
 
 - Building access keycard
-    
 - Viktor’s keys & wallet
-    
 - A file containing **Emilia Mulder’s medical documents**
-    
 
 They took temporary shelter beneath a closed restaurant’s outdoor seating (heavy rain ongoing).
 
 There they discovered:
 
 - Reference to **Dr. Jason Kennedy**, Emilia’s obstetrician
-    
 
 Too late to pursue that night.  
 Team procured instant ramen at a nearby 7/11.  
@@ -150,9 +125,7 @@ Vivienne posed as a concerned friend; Dr. Kennedy accepted as a walk-in consult.
 From him they secured:
 
 - **Emilia’s 7th-month ultrasound**
-    
 - Confirmation that Emilia lacked recent appointments
-    
 
 This provided final emotional/psychological context for the OGRE anomaly.
 
@@ -170,15 +143,11 @@ A long, fleshy corridor — dark red, pulsing, with viscous blood-like material 
 
 Three **Traces** emerged:
 
-- Piglet-sized, bipedal, umbilical cords ending in weighted stones  
+- Piglet-sized, bipedal, umbilical cords ending in weighted stones.  
     Combat Summary:
-    
-- Vivienne neutralized one with thrown knives
-    
-- Nelson fought another hand-to-hand atop its body, sustaining wounds but killing it
-    
-- Dan (brass knuckles) and Lilith (M-25 “Sparrow”) finished the last
-    
+	- Vivienne neutralized one with thrown knives.
+	- Nelson fought another hand-to-hand atop its body, sustaining wounds but killing it.
+	- Dan (brass knuckles) and Lilith (M-25 “Sparrow”) finished the last.
 
 ### **C. MINI-BOSS: “PIGPENT”**
 
@@ -198,32 +167,22 @@ Re-entering the now structurally destroyed penthouse (barely anything remaining 
 Description preserved:
 
 - Large grotesque pig-like creature
-    
 - Physiology similar to PIGPENT/Traces
-    
 - **Emilia Mulder** unconscious and fused at the spine
-    
 - The team successfully answered all **three Trauma Questions** during combat
-    
 
 Combat Notes:
 
 - Lilith was seized and swallowed whole
-    
 - Vivienne performed a precision knife strike, slicing the abdomen open and killing the OGRE
-    
 - OGRE destabilized and dissipated, releasing the palace structure
-    
 
 After dissolution, Emilia Mulder lay dead on the floor, bottle of pills in hand.  
 Conclusion:
 
 - Emilia miscarried
-    
 - Emotional collapse generated the OGRE
-    
 - Suicide provided host substrate for anomaly
-    
 
 The Executioners documented scene, gathered evidence, and left for exfil.
 
@@ -235,11 +194,9 @@ The team rendezvoused with Handler **Silas** at **King Street Station (North Ent
 Silas confirmed extraction orders and received their debrief:
 
 - Anomaly: **Neutralized**
-    
 - Civilian casualties: **Emilia Mulder**, **Fetus**, **Andrew Uhaul**
-    
 - None caused by Executioner action
-    
+
 
 Silas expressed approval.  
 At this point **Nelson ████████ inexplicably stood, unzipped, and urinated onto Silas’s lap.**  
