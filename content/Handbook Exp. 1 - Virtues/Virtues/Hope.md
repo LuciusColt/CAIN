@@ -48,7 +48,7 @@ You roll 0d for set up actions.
 
 ## HIGH DEFIANCE
 
-**VEIL** (*Instant, Long*)  
+#### ★ **VEIL** (*Instant, Long*)  
 
 Spend **all your remaining bursts** to instantly erase the memory of a mass of humans or executioners in range determined by CAT. You cannot choose who to target, and must target the maximum area and number of people possible.
 

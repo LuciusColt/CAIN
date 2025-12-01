@@ -46,7 +46,7 @@ Roll 0d on actions that would require talk instead of action.
 
 ## HIGH DEFIANCE
 
-**STRENGTH** (*Charm, 1 Scene*)  
+#### ★ **STRENGTH** (*Charm, 1 Scene*)  
 
 A rare mutation of the Amplify defiance, this ability allows the very flesh and blood of its wielder to be infused with grace, pushing them past impossible limits. Without proper training, using this defiance will cause internal organs to violently burst from the body.
 

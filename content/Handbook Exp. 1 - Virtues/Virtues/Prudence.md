@@ -44,7 +44,7 @@ Roll 0d when choosing violence over negotiation.
 
 ## HIGH DEFIANCE
 
-**SHAKE** (*1 Scene, Short*)
+#### ★ **SHAKE** (*1 Scene, Short*)
 
 You may spend **all your remaining bursts** to instantly enforce a game from the list below on yourself and all other humans, anomalies, or executioners in range determined by CAT. Breaking the rules of the game causes excruciating pain, hemorrhaging, and eventually death. As long as the rule applies:
 

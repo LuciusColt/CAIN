@@ -48,7 +48,7 @@ You roll 0d when trying to hide, stealth, or avoid notice.
 
 ## HIGH DEFIANCE
 
-**ENTWINE** (*Instant, 1 Mission*)  
+#### ☆ **ENTWINE** (*Instant, 1 Mission*)  
 
 You entangle your mind with another’s in a loving embrace. **Without spending a burst**, choose another willing executioner. For the duration of the mission, gain the following effects:
 

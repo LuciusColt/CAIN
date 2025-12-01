@@ -10,7 +10,7 @@
 
 ---
 
-**MOTHER'S EMBRACE** (*Passive*)  
+#### **MOTHER'S EMBRACE** (*Passive*)  
 
 When you strain overflow, you may gain a **Mother's Mark** instead of a regular strain mark, and roll 2d6, picking the lowest, if you choose to keep control.
 
@@ -29,7 +29,7 @@ If you lose control and have at least one Mother's Mark, you become subsumed int
 
 ---
 
-**UNRAVEL** (*Instant, Self, Charm, Until Rest*)  
+#### ★ **UNRAVEL** (*Instant, Self, Charm, Until Rest*)  
 
 **Effect**: You unravel your skin, muscle, and organs into a pulsing mass. You can reform body parts such as hands, mouths, eyes, or teeth anywhere in this mass at will. While in this form:
 
@@ -42,7 +42,7 @@ When your party rests, or when you end this power, you reform in any area that h
 
 ---
 
-**POLYP** (*Entire Hunt, Charm, Adjacent*)  
+#### ★ **POLYP** (*Entire Hunt, Charm, Adjacent*)  
 
 **Effect**: You harmlessly but gruesomely remove and place either or both of your **eyes**, or your **mouth**, (or any combination of your eyes and mouth) on a human, executioner, anomaly, or flat surface you can touch. For unwilling or unaware targets, roll MENTAL and only spend a burst and activate this power on success. 
 
@@ -52,7 +52,7 @@ Additionally, any number of times while active, you can take 1 strain to use a d
 
 ---
 
-**KNOT** (*Entire Hunt, Self*)  
+#### ☆ **KNOT** (*Entire Hunt, Self*)  
 
 **Passive**: When you gain any amount of stress, you can capture it's negative energy without spending a burst, appearing as a raised knot in your skin. Reduce stress suffered by 2 for each knot gained. You can capture up to 3 knots. At the end of any scene in which you have one or more knots, roll 1d6. When a knot bursts, you take 2 irreducible stress.
 
@@ -62,13 +62,13 @@ Additionally, any number of times while active, you can take 1 strain to use a d
 
 ---
 
-**COLONY** (*Self, Ally, Short*)  
+#### ☆ **COLONY** (*Self, Ally, Short*)  
 
 **Effect**: Gain 1d3 strain, then you or an ally in range gains a fleshy shield that absorbs 2 stress from external harm. If a character already has such a shield, increase it by +2, but they also take 1d3 strain.
 
 ---
 
-**COIL** (*Instant, Short*)  
+#### ★ **COIL** (*Instant, Short*)  
 
 **Effect**: Your limb peels apart its flesh and skin, then lashes at a target in short range like a whip, dealing harm or pulling them some distance. Roll MENTAL for its effects. 
 

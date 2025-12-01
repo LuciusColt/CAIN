@@ -20,7 +20,7 @@ The archive is always evolving as this game grows and changes, and every update 
 
 ---
 
-## **Session Structure
+## **Session Structure**
 
 We run a flexible, player-friendly structure designed to keep CAIN accessible no matter your schedule. With **two separate Admins**—one for Wednesday and one for Thursday—each evening having its own flavor and pacing, but both sharing the same world, characters, and ongoing missions.
 
@@ -47,10 +47,10 @@ This is the **first expansion** to the **CAIN Handbook**. Though not large in si
 The _Virtues_ are legendary operatives within the organization—living weapons of last resort, deployed only when the alternative would be the death of thousands. Their reputation echoes through every hallway of CAIN. Despite holding no official authority, their presence shapes the culture and morale of the rank and file. They are the sharpest blade the organization keeps sheathed.
 
 This expansion allows players to become **mentees** to these towering figures. Through mentorship, operatives gain access to fragments of the Virtues’ hard-won knowledge:  
-– bonus XP,  
-– additional dice opportunities,  
-– stat boosts,  
-– and specialized training that unlocks a controlled, weakened form of a Virtue’s devastating **High Defiance**—a rare, costly skill capable of turning the tide of an entire battle in an instant.
+-  bonus XP,  
+- additional dice opportunities,  
+- stat boosts,  
+- and specialized training that unlocks a controlled, weakened form of a Virtue’s devastating **High Defiance**—a rare, costly skill capable of turning the tide of an entire battle in an instant.
 
 ### **[Handbook Exp. 2 – Drifter Registry](https://cainarchive.org/Handbook-Exp.-2---Drifter-Registry/)**
 

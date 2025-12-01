@@ -6,7 +6,7 @@
 
 ---
 
-**THE WORD** (*Passive*)  
+#### **THE WORD** (*Passive*)  
 
 Your powers have no effect if you can’t speak, or if sound is suppressed somehow. Using the same power from this defiance more than once before resting has ramping effects, which are not optional!
 
@@ -16,7 +16,7 @@ Your powers have no effect if you can’t speak, or if sound is suppressed someh
 
 ---
 
-**BANG** (*Instant, CAT Range*)
+#### ★ **BANG** (*Instant, CAT Range*)
 
 **Effect**: You say ‘bang’. This causes a massive influx of force affecting up to a ½ CAT area with its center in range that typically manifests as an extreme pressure wave. It affects everything except you. Roll MENTAL for its effects, and only spend a burst on success.
 
@@ -25,7 +25,7 @@ Your powers have no effect if you can’t speak, or if sound is suppressed someh
 
 ---
 
-**SILENCE** (*Transmute, Scene, Long*)  
+#### ★ **SILENCE** (*Transmute, Scene, Long*)  
 
 **Effect**: You say ‘silence’ and choose an area up to CAT size with its center at a point in range. Everything in the area completely stops producing noise. Anything mundane that would make a loud noise as part of normal part of its operation completely stops functioning, such as vehicle engines, creaky door hinges, guns, explosives, fireworks, etc. Your powers from this defiance or any other defiance or psychic effect that would create a loud noise do not work inside this area.
 
@@ -34,7 +34,7 @@ Your powers have no effect if you can’t speak, or if sound is suppressed someh
 
 ---
 
-**NARRATE** (*Instant, Short*)  
+#### ★ **NARRATE** (*Instant, Short*)  
 
 **Effect**: Pick up to a CAT-sized group of humans or executioners in range (which could include yourself), an object or location in range, and a verb. Then narrate a sentence using the following structure: 
 
@@ -50,13 +50,13 @@ Roll MENTAL for its effects, and only spend a burst on a success. After the sent
 
 ---
 
-**DIE** (*Curse, Instant*)  
+#### ★ **DIE** (*Curse, Instant*)  
 
 **Effect**: You say ‘die’ and instantly kill all humans in an area up to CAT, centered on you. This is not optional, you don’t get to choose who to kill or spare, and you don’t require a roll to do so. If you used this power at least once to kill one person, at the end of a hunt, permanently fill in a strain box. If you used it at least once to kill more than one person, permanently fill in 1d3 strain boxes.
 
 ---
 
-**SNAP, CRUNCH, POP** (*Instant, Short*)  
+#### ★ **SNAP, CRUNCH, POP** (*Instant, Short*)  
 
 **Effect**: You say ‘*Snap*”, ‘*Click*’, or ‘*Pop*’, and produce an effect that would normally produce one of those sounds. For example, you could use ‘click’ to open a locked door, push a button, or type on a keyboard. You could use ‘snap’ to break a weapon or an arm. You could use ‘pop’ to blow a car tire or shoot a gun someone else is holding.
 

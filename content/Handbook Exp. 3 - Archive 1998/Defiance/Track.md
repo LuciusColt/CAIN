@@ -6,13 +6,13 @@
 
 ---
 
-**PLAYLIST** (*Passive*)  
+#### **PLAYLIST** (*Passive*)  
 
 You have a powerful cursed object, which is the focus of your powers. It’s a music player, typically a tape player or a cd player with attached headphones. It doesn’t take KP, and you can supernaturally form and reform it in your hands at will. Make a (*real*) playlist of 6 songs at the start of each hunt. Some of your powers key off this playlist. Any music you play from this playlist can be heard diagetically (in the game) if you so choose. It appears to come from either a visible location in short range, your player, or nowhere in particular (like a soundtrack), and you can turn it on and off at will.
 
 ---
 
-**VIBE** (*Charm, Self, Scene*)  
+#### ★ **VIBE** (*Charm, Self, Scene*)  
 
 **Effect**: When a scene starts, you may use this power to play a track from your playlist. Decide if the track is Melancholy, Chill, or Angsty. Gain a bonus based on the tracks’ type for the rest of the scene. 
 
@@ -22,13 +22,13 @@ You have a powerful cursed object, which is the focus of your powers. It’s a m
 
 ---
 
-**SHUFFLE** (*Transmute, Instant, CAT Area*)  
+#### ★ **SHUFFLE** (*Transmute, Instant, CAT Area*)  
 
 **Effect**: You may choose any number of objects, vehicles, or people in the affected area. Anything swapped may have a size up to 1/2 CAT (min 0). You instantly swap their positions and momentum. You must swap things of approximately the same size and mass. If attempting otherwise, or if you need to roll for effects such as harm, roll MENTAL and only spend a burst on success. When you or an ally next acts to gain advantage of this power, they may gain +1D.
 
 ---
 
-**REPLAY** (*Charm, Whole Mission*)  
+#### ☆★ **REPLAY** (*Charm, Whole Mission*)  
 
 **Passive**: Without spending a burst, you or an ally in short range from you performs a course of activity that takes no longer than 10 seconds, which you record on your player. It records you or your ally at the moment of the recording, including dress, speech, and objects held or worn, but nothing else around them. You can keep 3 recordings this way. 
 
@@ -36,13 +36,13 @@ You have a powerful cursed object, which is the focus of your powers. It’s a m
 
 ---
 
-**BOOST** (*Instant, Short*)  
+#### ★ **BOOST** (*Instant, Short*)  
 
 **Effect**: You can activate this power before yourself or any ally in range uses a defiance and makes a MENTAL roll. Pick a track from your playlist. Record the first three digits of the track length (like 3, 3, 5). 0s do not count, so a 10:35 track would record 1, 3, 5. For each die rolled, the action gains +1 additional CAT for every die rolled that matches a number recorded from the track length (min +1 CAT, max +3 CAT, max CAT 7).
 
 ---
 
-**TITLE** (*Summon, Instant, Short*)  
+#### ★ **TITLE** (*Summon, Instant, Short*)  
 
 **Effect**: You play a track from your playlist. You can manifest in short range from you a psychic manifestation based on any part of the title, up to CAT in size or magnitude. The effect can create: 
 

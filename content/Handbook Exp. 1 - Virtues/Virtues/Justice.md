@@ -45,7 +45,7 @@ Always roll 0d on any action that would break the law.
 
 ## HIGH DEFIANCE
 
-**LAW** (*Transmute, Adjacent, 1 Scene*)  
+#### ★ **LAW** (*Transmute, Adjacent, 1 Scene*)  
 
 You set a rule of physical reality that affects everything in a circular area around you, called the **Court**, with a radius equal to **CAT**. You can exclude yourself. Any changes made take place instantly and persist inside the area, but the area itself does not move. This power can always eliminate, destroy, or totally change mundane beings, objects or structures. Strong willed or supernatural beings such as executioners or anomalies can partly resist its effects, but humans are always affected instantly. If you exit the area or the scene ends, the effect ends.
 
