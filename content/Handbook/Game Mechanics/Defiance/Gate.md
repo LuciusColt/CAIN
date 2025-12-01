@@ -6,7 +6,7 @@
 
 ---
 
-**POCKET** (*Passive*)  
+#### **POCKET** (*Passive*)  
 
 You can fit a compressed tear in space into a piece of clothing that you are wearing.  
 
@@ -17,7 +17,7 @@ Once inside, the items are stored in an extra dimensional space and hidden and s
 
 ---
 
-**BLOOM** (*Summon, Short, Scene*)  
+#### ★ **BLOOM** (*Summon, Short, Scene*)  
 
 By splitting space in creative ways, you create a number of controllable duplicates of any of your limbs or hands equal to CAT+1 on any surfaces in short range from you, emerging from a tear in space. They are stuck in place and cannot move. Gain or grant +1D when you or any ally next acts to take advantage of this power:  
 
@@ -27,7 +27,7 @@ By splitting space in creative ways, you create a number of controllable duplica
 
 ---
 
-**MAZE** (*Transmute, Self, CAT Area*)
+#### ★ **MAZE** (*Transmute, Self, CAT Area*)
 
 You rearrange an area equal to CAT around you, causing the rearrangement of human built structures in the area. Pick any of the following, then gain or grant +1D when you or any ally next acts to take advantage of this power:  
 
@@ -42,19 +42,19 @@ For each choice, the Admin rolls 1d6. If they roll at least one ‘1’ the Admi
 
 ---
 
-**TEAR** (*Summon, Until Rest*)  
+#### ★ **TEAR** (*Summon, Until Rest*)  
 
 You create a point in CAT range, and another point within the same range, though you have to be able to see both points when you use this ability. The two points are connected by a slash in the fabric of reality, a portal that can be moved through and connects the two points as though they were right next to each other. Objects, beings, and forces up to ½ CAT in size can freely move through the tear for the duration, and momentum is preserved.
 
 ---
 
-**PINCH** (*Instant, Special Range*)
+#### ★ **PINCH** (*Instant, Special Range*)
 
 You can choose a single living being or object you can see. The combined size of the object or being and the distance you attempt to move them must be CAT+2 or less. Roll MENTAL if your target is unwilling, only spending a burst on success. As long as you can see your target, on at least one success, you can pinch space between the two of you to move your target right next to you. From the targets perspective, they don’t appear to move at all, but the world smears around them. They ignore all physical obstructions between them and you - as long as you can see your target, they simply appear next to you. You may gain or grant +1D when you or any ally next acts to take advantage of this power.
 
 ---
 
-**TRANSMISSION** (*Instant, CAT +2 Range*)
+#### ★ **TRANSMISSION** (*Instant, CAT +2 Range*)
 
 Instantly move to any other area in CAT+2 range. However, the Admin asks you the following questions and rolls 1d6 per ‘no’ answer.  
 
@@ -62,4 +62,4 @@ Instantly move to any other area in CAT+2 range. However, the Admin asks you the
 - Can you see where you are going?  
 - Are you calm and concentrated?  
 
-On at least one ‘1’, you end up in a different location nearby your destination, but the Admin chooses where. On a double 1, you end up somewhere else briefly before arriving at your final destination. Not only are you off target, but you also take 2d3 damage.
+On at least one ‘1’, you end up in a different location nearby your destination, but the Admin chooses where. On a double 1, you end up somewhere else briefly before arriving at your final destination. Not only are you off target, but you also take 2d3 stress.

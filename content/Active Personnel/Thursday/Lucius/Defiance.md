@@ -3,7 +3,7 @@
 
 **PALLOR MORTIS** (*Passive*)  
 
-*You naturally slow down the rate of death for supernatural beings nearby you. You may redirect any damage from an **adjacent** allied executioner to yourself instead if they are on the **brink of death**. Anomalies or other supernatural hostile beings while adjacent to you **cannot** have the last segment on their execution tag slashed. If the last segment would be slashed you take 1d3 damage instead.*  
+*You naturally slow down the rate of death for supernatural beings nearby you. You may redirect any stress from an **adjacent** allied executioner to yourself instead if they are on the **brink of death**. Anomalies or other supernatural hostile beings while adjacent to you **cannot** have the last segment on their execution tag slashed. If the last segment would be slashed you take 1d3 stress instead.*  
 
 ---
 

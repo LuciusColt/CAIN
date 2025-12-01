@@ -20,15 +20,15 @@
 
 ---
 
-**STEAL TIME** (*Passive*)
+#### **STEAL TIME** (*Passive*)
 
 Once a mission, you can reroll all your resting dice for yourself or an ally, taking the second result as final.  
 
 ---
 
-**STOP** (*Transmute, Instant, Self*)  
+#### ★+ **STOP** (*Transmute, Instant, Self*)  
 
-You spend up to three bursts to stop local time in an area around you equal to CAT. Roll 1d6 per burst spent and add them together - that is how many seconds you have. Anything that enters this area is immediately affected (including anything put into or out of the area), but time flows normally outside the area. In this stopped time, you are unaffected and:  
+You spend **up to three bursts** to stop local time in an area around you equal to CAT. Roll 1d6 per burst spent and add them together - that is how many seconds you have. Anything that enters this area is immediately affected (including anything put into or out of the area), but time flows normally outside the area. In this stopped time, you are unaffected and:  
 
 - You cannot use psychic powers, but neither can you be affected by them. Any power currently active from you or affecting you other than this one dissipates.  
 - You can perform one activity or course of action that fits in the duration. After you would make an action roll for anything, the effect ends no matter what.  
@@ -37,18 +37,18 @@ You spend up to three bursts to stop local time in an area around you equal to C
 
 ---
 
-**QUICKENING** (*Instant, Adjacent*)  
+#### ★ **QUICKENING** (*Instant, Adjacent*)  
 
 You can accelerate the natural healing of your body or those of others, giving you the following benefits:
 
-- Immediately heal 1d3 damage on yourself or another target.  
+- Immediately heal 1d3 stress on yourself or another target.  
 - You may heal a CAT sized group of dying or injured humans in short range. Dying humans are stabilized and no longer in danger of expiring, but fall unconscious. Otherwise, badly injured humans are healed to the point of being able to (slowly) move by themselves. Minor injuries are fully healed.  
 
 >Then, gain temporal instability  
 
 ---
 
-**REVERSAL** (*Adjacent, Instant*)  
+#### ★ **REVERSAL** (*Adjacent, Instant*)  
 
 By touching an object up to CAT size, you can reverse its passage through time for the last hour.
 
@@ -59,7 +59,7 @@ You can stop this effect by willing it, but to resume it requires using this pow
 
 ---
 
-**SCHISM** (*Transmute, Instant, Scene*)  
+#### ★ **SCHISM** (*Transmute, Instant, Scene*)  
 
 You can create a bubble of altered time equal to CAT area. Inside the bubble, you open a window into one day in the past or future from the moment the bubble was created. Gain or grant +1D when you or any ally next acts to take advantage of this power:  
 
@@ -71,7 +71,7 @@ The bubble represents an ‘alternate’ timeline, so anything altered inside of
 
 ---
 
-**STUTTER** (*Instant, Short*)
+#### ★ **STUTTER** (*Instant, Short*)
 
 You can briefly reverse time in order to alter causality for any event that happened as a result of an action roll made by you or an ally in CAT range, instantly after you see the result. Reroll the action roll completely, taking the second result as final.  
 

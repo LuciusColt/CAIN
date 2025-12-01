@@ -6,7 +6,7 @@
 
 ---
 
-**MIMIC** (*Passive*)  
+#### **MIMIC** (*Passive*)  
 
 You can alter minor things about your appearance. You can change any of the following about yourself when resting, within a variation of your original body:  
 
@@ -18,7 +18,7 @@ You always look faintly similar, like a distant relative of yourself. Your cloth
 
 ---
 
-**UTILITY** (*Until Rest, Short*)  
+#### ★ **UTILITY** (*Until Rest, Short*)  
 
 When you need any mundane object, tool, or vehicle that could fit in a small room, you can cause it to appear on a surface in range as though it was always there, without spending KP. However, the admin chooses one, or two if the item is dangerous or rare:  
 
@@ -31,7 +31,7 @@ The item cannot be a unique item, etc you cannot create a particular car, key, b
 
 ---
 
-**COPY** (*Summon, Adjacent, Scene*)  
+#### ★ **COPY** (*Summon, Adjacent, Scene*)  
 
 You create a temporary, exact copy of a human, or executioner.  
 
@@ -43,13 +43,13 @@ This ability creates a copy of the target in its present state, including anythi
 
 ---
 
-**UNIFORM** (*Charm, Self, Until Rest*)  
+#### ★ **UNIFORM** (*Charm, Self, Until Rest*)  
 
 You make a brief edit of yourself. You can’t do this in public (you need privacy, no matter how tenuous). This power makes you officially part of any profession or group with more than 5 members, with any necessary uniform, equipment, id cards, memberships, etc, and alters reality to make it so. Even if people don’t particularly remember you being part of a group, they may get a vague sense that you were a member. You don’t actually gain any particular skills and any changes you may have to be to your own person and must include things you could wear or carry in one or both hands. Gain or grant +1D when you or any ally next acts to take advantage of this power.
 
 ---
 
-**ABSURD** (*Curse, Short, Scene*)  
+#### ★ **ABSURD** (*Curse, Short, Scene*)  
 
 You swap CAT amount of humans or executioners with a different version of themselves from an alternate timeline. You must roll MENTAL for this power to take effect on hostile targets, only spending a burst on success. This can change:  
 

@@ -3,7 +3,7 @@
 
 **IRON SOUL** (*Passive*)  
 
-*When you would fill up your damage tag and gain an injury, roll 1d6. On a 4+, go to 1 damage under maximum instead and ignore any excess, then lose the use of this passive until you rest.*
+*When you would fill up your execution tag and gain an injury, roll 1d6. On a 4+, go to 1 stress under maximum instead and ignore any excess, then lose the use of this passive until you rest.*
 
 ---
 

@@ -12,7 +12,7 @@ You may dump energy into the ground and anything touching the ground in an area 
 
 - **Simmer**: Discomfort for humans, lowered or raised temperature, hot or cold surfaces, etc.  
 - **Poach**: Major discomfort for humans, who cannot remain in the area, and discomfort for anomalies and executioners. Freeze or boil water, pipes, crack glass, etc.  
-- **Boil**: Deadly to humans, anomalies and executioners take 2 damage if they remain in the area for longer than a scene. Light fires or freeze the air in rooms, melt windows or burn doors, or freeze objects. 
+- **Boil**: Deadly to humans, anomalies and executioners take 2 stress if they remain in the area for longer than a scene. Light fires or freeze the air in rooms, melt windows or burn doors, or freeze objects. 
 
 This power may effect the parameters of rolls, such as difficulty and risk.  
 
@@ -22,7 +22,7 @@ This power may effect the parameters of rolls, such as difficulty and risk.
 
 Release a blast of energy in a highly destructive beam. The beam goes in a straight line, range is equal to CAT, piercing through walls, doors, and obstructions effortlessly. It is extremely loud and bright. Roll MENTAL for its effects, only spending a burst on success.  
 
-For every ‘6’ result you roll when using ability, this ability inflicts 1 extra slash on a tag, but you also take 1 damage, which could kill you or cause you an injury. This damage cannot be reduced or ignored in any way.  
+For every ‘6’ result you roll when using ability, this ability inflicts 1 extra slash on a tag, but you also take 1 stress, which could kill you or cause you an injury. This stress cannot be reduced or ignored in any way.  
 
 ---
 
@@ -30,7 +30,7 @@ For every ‘6’ result you roll when using ability, this ability inflicts 1 ex
 ---
 
 **BRAKE** (*Passive*)  
-*Automatically remove velocity from all projectiles that would hit you, taking -1 damage from them.*  
+*Automatically remove velocity from all projectiles that would hit you, taking -1 stress from them.*  
 
 ---
 

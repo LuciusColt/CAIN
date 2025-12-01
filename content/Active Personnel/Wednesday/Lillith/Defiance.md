@@ -3,7 +3,7 @@
 
 **BRAKE** (*Passive*)
 
-*Automatically remove velocity from all projectiles that would hit you, taking -1 damage from them.* 
+*Automatically remove velocity from all projectiles that would hit you, taking -1 stress from them.* 
 
 ---
 

@@ -5,7 +5,7 @@
 
 *You harbor a separate being that follows you everywhere, even when you sleep. The rules for it are below.*  
 
-*THE SHADOW is intangible and invisible to everyone, even the psychically sensitive. It can only weakly interact with the physical world and has its own mind and senses. It can range in about short range from you. It can pass through walls and surfaces easily but retreats into your body in bright light, preventing it from doing anything. You can talk to it telepathically, but talking to it is dangerous and causes 1 damage after any interaction ends. It has no obligation to tell you the truth unless you use your powers. You may talk to it safely using your abilities, and it knows the future. The Admin will answer for it.*
+*THE SHADOW is intangible and invisible to everyone, even the psychically sensitive. It can only weakly interact with the physical world and has its own mind and senses. It can range in about short range from you. It can pass through walls and surfaces easily but retreats into your body in bright light, preventing it from doing anything. You can talk to it telepathically, but talking to it is dangerous and causes 1 stress after any interaction ends. It has no obligation to tell you the truth unless you use your powers. You may talk to it safely using your abilities, and it knows the future. The Admin will answer for it.*
 
 ---
 
