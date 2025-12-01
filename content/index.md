@@ -64,7 +64,7 @@ This expansion catalogues the known Drifter types, their behaviors, and recommen
 
 ### **[Handbook Exp. 3 – Archive 1998](https://cainarchive.org/Handbook-Exp.-3---Archive-1998/)**
 
-This is the **third expansion** to the **CAIN Handbook**, and it brings the most sweeping set of additions to date. Among its major updates are **four new Defiance**—one for each established color category (Red, Orange, Blue, and Purple)—raising the total number of known Defiance from twelve to sixteen.
+This is the **third expansion** to the **CAIN Handbook**, and it brings the most sweeping set of additions. Among its major updates are **four new Defiance**—one for each established color category (Red, Orange, Blue, and Purple)—raising the total number of known Defiance from twelve to sixteen.
 
 These new disciplines—**Tongue**, **Track**, **Wire**, and **Mother**—are officially sanctioned by CAIN. Any Executioner can begin training in them. Each defiance expands what operatives are capable of in the field.
 
