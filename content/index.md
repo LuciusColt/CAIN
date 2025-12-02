@@ -70,7 +70,7 @@ These new disciplines—**Tongue**, **Track**, **Wire**, and **Mother**—are of
 
 Alongside these developments, CAIN has identified emerging psychological patterns among its Executioners, leading to the classification of **three new Agenda types**: **Cradle**, **Doll**, and **Broken**. These Agendas reflect evolving mentalities around investigating, tracking, and hunting anomalies.
 
-The most alarming news, however, is the documentation of **Perfect Anomalies**. These entities represent the apex form of all six previously known anomaly classifications—a fully realized, fully matured manifestation of their category. Their threat level is catastrophic: **Perfect Anomalies begin at CAT 6 difficulty**.
+The most alarming news, however, is the documentation of **Perfect Anomalies**. These entities represent the apex form of all six previously known anomaly classifications—a fully realized, fully matured manifestation of their category. Their threat level is catastrophic: **Perfect Anomalies occur at CAT 6**!
 
 If you encounter one, the protocol is simple: **run**. Only the most prepared, coordinated, and desperate teams would ever consider engaging with one.
 
