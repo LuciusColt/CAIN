@@ -16,9 +16,9 @@ You can join your mind telepathically with a number of other willing people you 
 
 You can shunt your perception out of your body to take control of a human, animal, or corpse (in good condition) you can see in range for a scene. Supernatural beings are immune this effect. Unwilling humans might require a rolling MENTAL to control successfully. 
 
-• While controlling another your real body is insensate and defenseless. 
-• For humans and animals, you cannot force a target to harm itself or take action that would indirectly cause it to come to harm. 
-• Actions that the target takes use your skills, but the target’s body or equipment, which might change the circumstances. 
+- While controlling another your real body is insensate and defenseless. 
+- For humans and animals, you cannot force a target to harm itself or take action that would indirectly cause it to come to harm. 
+- Actions that the target takes use your skills, but the target’s body or equipment, which might change the circumstances. 
 
 You are kicked out of the body if it takes stress.
 
@@ -28,9 +28,9 @@ You are kicked out of the body if it takes stress.
 
 You can shunt your perception out of your body and roam for CAT+2 range, becoming a being made of purely psychic energy. 
 
-• While practicing this power, your real body is insensate and defenseless 
-• You can fly at CAT speed, are invisible to those not psychically sensitive, and may pass through walls, floors, and objects easily while in this form. 
-• You cannot interact with or be affected by the physical world. You cannot use or benefit from your own psychic powers, but psychic powers or effects from others can still affect you. 
+- While practicing this power, your real body is insensate and defenseless 
+- You can fly at CAT speed, are invisible to those not psychically sensitive, and may pass through walls, floors, and objects easily while in this form. 
+- You cannot interact with or be affected by the physical world. You cannot use or benefit from your own psychic powers, but psychic powers or effects from others can still affect you. 
 
 If your form is destroyed somehow (by a supernatural force), you take 1 stress, this power ends, and you can’t use this power again until the scene passes. 
 
@@ -42,9 +42,9 @@ This power may easily effect the parameters of rolls, such as difficulty and ris
 
 You can sense the unseen world of traces of grace. Upon using this power, you close your eyes and can see through your eyelids the patterns the soul leaves in the environment. 
 
-• You gain the ability to see living beings, even through walls, for CAT range. 
-• You can see the traces an anomaly or someone strong in grace such an executioner leaves, like a faint trail of light through the air. 
-• You gain +1D on actions to track or locate living beings or traces of an anomaly in the area. However, you cannot see any non-living matter (you are effectively blind) while maintaining this power, and find actions that rely on sight hard. 
+- You gain the ability to see living beings, even through walls, for CAT range. 
+- You can see the traces an anomaly or someone strong in grace such an executioner leaves, like a faint trail of light through the air. 
+- You gain +1D on actions to track or locate living beings or traces of an anomaly in the area. However, you cannot see any non-living matter (you are effectively blind) while maintaining this power, and find actions that rely on sight hard. 
 
 This power ends when you open your eyes or when you rest.
 
@@ -66,8 +66,8 @@ You can forcibly see the memories of corpses, up to a CAT number of humans or ex
 
  You choose a group of willing people with a size equal or less than ½ CAT in extreme range, who must be able to either hear you (even telepathically) or see you. You pull their psychic presence into your body for the duration. Their bodies become limp, vulnerable and insensate. However: 
  
- • they now share control of your body with you, including all senses. 
- • You can surrender control of your body to them to allow them to make action rolls using their skills or abilities, but using your body (gear, access, etc). 
- • You can set them up as normal or aid them on these skills. 
+ - they now share control of your body with you, including all senses. 
+ - You can surrender control of your body to them to allow them to make action rolls using their skills or abilities, but using your body (gear, access, etc). 
+ - You can set them up as normal or aid them on these skills. 
  
  They cannot use psychic powers while possessing you this way, and you suffer any harm or consequences from their actions.
