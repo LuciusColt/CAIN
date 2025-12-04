@@ -8,7 +8,7 @@
 
 #### **INNER FURNACE** (*Passive*)  
 
-You can take an Unstable Power hook as part of using any Ardence power to increase the CAT of the power up to +2. When the hook fills up, you burn up from the inside, gaining an injury and ending the hook. If this injury would kill you, you explode in an area equal to your CAT, annihilating yourself and everything inside in a massive explosion. Nothing can survive this
+You can take an Unstable Power hook as part of using any Ardence power to increase the CAT of the power up to +2. When the hook fills up, you burn up from the inside, gaining an injury and ending the hook. If this injury would kill you, you explode in an area equal to your CAT, annihilating yourself and everything inside in a massive explosion. Nothing can survive this.
 
 ---
 
