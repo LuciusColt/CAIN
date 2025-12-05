@@ -25,8 +25,8 @@ You can improve the CAT of any of your Smother powers by +2 when you use them, t
 
 You temporarily remove weight from a single object, human, or executioner, giving them the total weight of 1 lb if heavier. The size of the object must be CAT or lower, and you can end this modification any time, though you must use this power again to regain its effects. Roll MENTAL for any creative uses of this power, only spending a burst on at least one success. 
 
-• Gain or grant +1D when you or any ally next acts to take advantage of this power. 
-• This power ends on its previous target if used again. 
+- Gain or grant +1D when you or any ally next acts to take advantage of this power. 
+- This power ends on its previous target if used again. 
 
 This power may easily effect the parameters of rolls, such as difficulty and risk.
 
@@ -44,8 +44,8 @@ Gain or grant +1D when you or any ally next acts to take advantage of this power
 
 You temporarily remove almost all friction from a CAT sized group of human or executioners, or an area up to CAT. The area or target(s) become incredibly slippery. If targeting an area, it becomes hard for anyone to stand, climb, or move normally in the area, though people are able to slide around. 
 
-• Roll MENTAL to affect hostile targets with this power, only spending a burst on success. 
-• You can sculpt this area if you wish to affect just part of it, or sculpt a path. 
+- Roll MENTAL to affect hostile targets with this power, only spending a burst on success. 
+- You can sculpt this area if you wish to affect just part of it, or sculpt a path. 
 
 Gain or grant +1D when you or any ally next acts to take advantage of this power. This power may also easily effect the parameters of rolls, such as difficulty and risk.
 
@@ -55,12 +55,12 @@ Gain or grant +1D when you or any ally next acts to take advantage of this power
 
   You produce a strong field from your body disabling even the simplest human advancements from working in CAT area. The effect moves with you. You can choose up to three of the following to suppress, ceasing their operation, then gain or grant +1D when you or any ally next acts to take advantage of this power: 
   
-  • Electricity 
-  • Internet 
-  • Combustion Engines 
-  • Running Water 
-  • Door Handles, Window Latches, Zippers, Catches 
-  • Open Fires 
+  - Electricity 
+  - Internet 
+  - Combustion Engines 
+  - Running Water 
+  - Door Handles, Window Latches, Zippers, Catches 
+  - Open Fires 
   
   These things stop working even if it would not make sense, i.e. suppressing running water would mean water pressure simply stops working. You can end this effect willingly, but must end all effects at once.
 
@@ -70,7 +70,7 @@ Gain or grant +1D when you or any ally next acts to take advantage of this power
 
 Any number of objects or living beings equal to CAT, or a location of a size up to CAT you touch ceases producing sound, reflecting light, or both for the scene. Gain or grant +1D when you or any ally next acts to take advantage of this power: 
 
-• Targeting a person allows the effect to move with them for the scene. 
-• Targeting a location affects an area, removing all sound and/or light. You can ‘filter’ this effect by allowing light or sound inside the location to operate normally, but not enter or exit the area. 
+- Targeting a person allows the effect to move with them for the scene. 
+- Targeting a location affects an area, removing all sound and/or light. You can ‘filter’ this effect by allowing light or sound inside the location to operate normally, but not enter or exit the area. 
 
 This power may easily effect the parameters of rolls, such as difficulty and risk.
