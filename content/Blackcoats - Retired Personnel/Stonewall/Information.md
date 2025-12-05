@@ -1,5 +1,5 @@
 **XID**: *X420*  
-**CAT**: III  
+**CAT**: IV  
 **Weapon**: Axe  
 **Level**: 1  
 **XP**: 0/5  

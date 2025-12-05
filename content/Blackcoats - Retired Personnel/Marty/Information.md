@@ -1,5 +1,5 @@
 **XID**: *X007*  
-**CAT**: III  
+**CAT**: IV  
 **Weapon**: Boomerang  
 **Level**: 2  
 **XP**: 0/5  

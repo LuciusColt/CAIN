@@ -1,5 +1,5 @@
 **XID**: *X777*  
-**CAT**: III  
+**CAT**: IV  
 **Weapon**: Brass Knuckles  
 **Level**: 2  
 **XP**: 0/4  
