@@ -23,13 +23,15 @@ The archive is always evolving as this game grows and changes, and every update 
 
 ## **Session Structure**
 
-We run a flexible, player-friendly structure designed to keep CAIN accessible no matter your schedule. With **two separate Admins**—one for Wednesday and one for Thursday—each evening having its own flavor and pacing, but both sharing the same world, characters, and ongoing missions.
+We run a flexible, player-friendly campaign designed to keep CAIN accessible no matter your schedule. With **two alternating Admins** leading our weekly adventures, you'll experience a dynamic world while enjoying a consistent story, persistent characters, and ongoing missions.
 
 We have a **large rotating cast of players**, so availability shifts week to week. As a result, party compositions may change from one hunt to the next. You might work with familiar faces or find yourself side-by-side with someone entirely new. This fluid roster is intentional—it keeps the world active, interconnected, and always moving.
 
+We maintain a **large core roster of players**, and while availability may shift, our commitment is to gather every Thursday evening. This means the party for each hunt is a unique blend of whoever's available—sometimes you'll work with a familiar crew, and other times find yourself allied with new faces. This fluidity is intentional; it keeps the world interconnected and the narrative always moving forward.
+
 Between missions, we prioritize **downtime**. Characters have time to rest, train, play games, or simply spend time together. These moments help anchor the chaos of the hunts and give everyone a chance to develop their relationships and character stories at their own pace.
 
-Ultimately, the goal is simple: **every session should feel welcoming, collaborative, and alive**, no matter who shows up or which Admin is running the night.
+Ultimately, the goal is simple: **every session should feel welcoming, collaborative, and alive**, no matter which Admin is at the helm.
 
 ---
 
