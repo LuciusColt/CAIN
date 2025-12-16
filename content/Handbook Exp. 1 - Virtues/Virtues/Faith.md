@@ -45,7 +45,7 @@ Always roll 0d on actions that would be considered impolite.
 0. Once a mission, if you are able to eat sweets, you can relieve 1 strain.
 1. You gain the **Null** defiance. You can use it once a mission.
 2. Strain overflow only reduces your strain overflow cap by 1 instead of 2.  
-3. When you so choose, your **Null** defiance becomes the **Immaculate Defiance of Order**. This choice is irreversible.
+3. When you so choose, your **Null** defiance becomes the **Immaculate Defiance of Heaven**. This choice is irreversible.
 
 ---
 
@@ -55,7 +55,7 @@ Always roll 0d on actions that would be considered impolite.
 
 Spend **all your remaining bursts** (min 1). For the duration of the scene, you become completely immune to psychic phenomena. Anything inflicting physical harm, like the physical attacks of anomalies, can affect you normally. For example, you could be harmed by a thrown piece of furniture or a bullet, but not by a blast of purely psychic energy or a form of mind control. You cannot be affected by afflictions (though they still remain on you, their abilities are merely suppressed for the scene). In return, for the duration, you cannot use or be affected by any defiance other than this one, including those from your allies, and any currently affecting you end. Unlike other powers, you cannot end this effect early.
 
-**IMMACULATE DEFIANCE OF ORDER**  (*Permanent*)
+**IMMACULATE DEFIANCE OF HEAVEN**  (*Permanent*)
 
 This power has the same function as **Null**, except it is **permanent**. It has the following effects:
 

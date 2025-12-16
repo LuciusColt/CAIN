@@ -3,8 +3,6 @@
 - **LEGAL NAME**: Johnny-Bob "Hay Hauler" McGee Jr. 
 - **XID**: X047 
 - **CAT**: 1 
-- **Melee Weapon**: ??? 
-- **Ranged Weapon**: ??? 
 - **Level**: 0 
 - **XP**: 0/4 
 - **Advances**: 0/3  
