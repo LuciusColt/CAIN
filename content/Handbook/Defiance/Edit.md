@@ -72,7 +72,8 @@ This ability creates a copy of the target in its present state, including anythi
 
 You produce a strong field affecting all matter in an area about the size of a small room, which must contain you. In this area you gain +1D to examine its contents and: 
 
-- You can cause any matter to become transparent or opaque - you can change the lighting in the room as though lit by an invisible light source, or snuff out any light sources in the room. 
+- You can cause any matter to become transparent or opaque. 
+- You can change the lighting in the room as though lit by an invisible light source, or snuff out any light sources in the room. 
 - You can move around any objects in the area without touching them and ‘pin’ them to any point in space in the area, causing them to float. 
 - You can safely dissect any loose inanimate object or furniture into its constituent parts or reassemble any broken object, providing any parts are present. 
 

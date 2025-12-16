@@ -2,6 +2,7 @@
 ---
 - **LEGAL NAME**: Johnny-Bob "Hay Hauler" McGee Jr. 
 - **XID**: X047 
+- **Watchsite**: 95 ("???")
 - **CAT**: 1 
 - **Level**: 0 
 - **XP**: 0/4 
@@ -15,3 +16,6 @@
 	- **Failure**: 0
 	- **Spared**: 0
 - **Success Rate**: 0%
+
+### Advancement Breakdown
+---

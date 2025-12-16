@@ -2,7 +2,6 @@
 ---
 - **Virtue Name**: Justice
 - **Bond Level**: 0
-- **High Defiance**: Law
 ---
 
 ## BOND
