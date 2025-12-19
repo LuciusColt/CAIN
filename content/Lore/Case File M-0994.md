@@ -225,11 +225,8 @@ Operation classified as **Successful**.
 **RECOMMENDED FOLLOW-UP:**
 
 - Psychological evaluation for remaining Executioners
-    
 - Documentation of palace phenomena for future OGRE encounters
-    
 - Disciplinary review of Handler Silas (ignored, per Watchsite prerogative)
-    
 
 **FILE LOCKED.**  
 **ACCESS RESTRICTED TO LEVEL 4 CLEARANCE.**

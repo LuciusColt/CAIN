@@ -15,4 +15,3 @@ Watchsite 44 - The Pit of Hell // Tucson, Arizona
 Watchsite 66 - Ethel's Ridge // Appalachia, Tennessee
 
 Watchsite 77 - [ REDACTED ] // [ UNKOWN ]
-
