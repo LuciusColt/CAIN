@@ -4,11 +4,9 @@
 - **XID**: X047 
 - **Watchsite**: 95 ("???")
 - **CAT**: 1 
-- **Level**: 0 
+- **Level**: 2 
 - **XP**: 0/4 
 - **Advances**: 0/3  
-  -> *Meditated, Learned **Lift***  
-  -> *Rested, Agenda changed to **Torch** and learned the ability **Strive*** 
 - **SCRIP**: 0 
 
 ### Hunt Information
@@ -21,3 +19,5 @@
 
 ### Advancement Breakdown
 ---
+- *Meditated, Learned **Lift***  
+- *Rested, Agenda changed to **Torch** and learned the ability **Strive*** 

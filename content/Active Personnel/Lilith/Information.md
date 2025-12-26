@@ -4,10 +4,9 @@
 - **XID**: X666
 - **Watchsite**: 1 ("Abel's Grave")
 - **CAT**: 1
-- **Level**: 0
+- **Level**: 1
 - **XP**: 2/4
 - **Advances**: 0/3  
-  -> *Rested, Learned the ability **Rapture***  
 - **SCRIP**: 0
 
 ### Hunt Information
@@ -20,3 +19,4 @@
 
 ### Advancement Breakdown
 ---
+- *Rested, Learned the ability **Rapture***  
