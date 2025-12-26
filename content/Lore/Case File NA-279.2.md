@@ -1,4 +1,4 @@
-## CASE FILE NA-279.1
+## CASE FILE NA-279.2
 ---
 
 **OFFICIAL AFTER-ACTION REPORT**  
@@ -56,7 +56,7 @@ The team, with Johnny critically injured, retreated to a pay-by-the-hour motel o
 **Personnel Notes**:  
 *   **Sakuma Hakuba**: Demonstrated sound initial judgment and ability use. However, acquiesced to the catastrophic "bait" plan. His performance in the subsequent retreat under duress was adequate.
 *   **Biggby**: Caused unnecessary injury to a poi during interrogation. Failed to provide effective support during the TWIN engagement beyond initial temporal freeze.
-*   **Lilith Belladonna**: Showed courage in retrieving McGee Jr. but failed to exercise command judgment in discouraging the reckless plan.
+*   **Lilith Belladonna**: Showed courage in retrieving McGee Jr. but failed to exercise good judgment in discouraging the reckless plan.
 *   **Paco Bell**: Contributed minimally, prioritizing self-preservation during the engagement.
 *   **Johnny McGee Jr.**: Actions directly led to the compromise of the bait operation and his own critical injury. New physiological mutation requires evaluation.
 
@@ -69,8 +69,8 @@ The team, with Johnny critically injured, retreated to a pay-by-the-hour motel o
 **RECOMMENDATIONS**  
 1.  **Immediate Medical & Psych Evaluation**: Executioner Johnny McGee Jr. is to be given a full medical and psychic evaluation at the earliest opportunity after the conclusion of the mission. His new mutation must be studied for utility.
 2.  **Mission Reassessment**: Operation Paper Tiger, Mourning Fog is now a dual-threat scenario. Priority must be split between Li Hua and the newly identified, highly dangerous TWIN.
-3.  **Team Reinforcement:** Given the injury of McGee Jr. and the demonstrated lack of tactical discipline, consider reinforcing the team with additional support.
-4.  **Review:** The decision-making process that led to the "bait" protocol and the abandonment of a poi must be reviewed for systemic training failure.
+3.  **Team Reinforcement**: Given the injury of McGee Jr. and the demonstrated lack of tactical discipline, consider reinforcing the team with additional support.
+4.  **Review**: The decision-making process that led to the "bait" protocol and the abandonment of a poi must be reviewed for systemic training failure.
 
 The team is currently holed up in a non-secure location, licking their wounds. They remain the only active asset in the immediate AO but are operating at severely diminished capacity.
 
