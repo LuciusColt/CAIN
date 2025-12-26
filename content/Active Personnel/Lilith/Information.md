@@ -5,8 +5,9 @@
 - **Watchsite**: 1 ("Abel's Grave")
 - **CAT**: 1
 - **Level**: 0
-- **XP**: 0/4
+- **XP**: 2/4
 - **Advances**: 0/3  
+  -> *Rested, Learned the ability **Rapture***  
 - **SCRIP**: 0
 
 ### Hunt Information

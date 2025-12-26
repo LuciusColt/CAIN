@@ -23,3 +23,15 @@ Roll MENTAL for this power’s effects, including any harm inflicted, and only s
  
  - You have to be able to see your target, even if it’s far away. However, you can perform this manipulation even if your path to the target is blocked, such as if you could see it through a window, etc. 
  - You can pick up objects and move them around through the air but they cannot be any bigger or heavier than a laptop or a full briefcase.
+
+---
+
+#### ★ **LIFT** (*Charm, Self, Scene*)  
+
+You reverse gravity’s effect on yourself and a CAT sized group of other executioners or humans with a low but constant Vector effect. For this scene, any affected gain the following benefits: 
+
+- You can run, walk, or climb up vertical surfaces. 
+- You can slow your fall at will, and you cannot take harm from falling. 
+- You can glide a distance equal to CAT range. You must start at height to gain this benefit. 
+
+This power may easily effect the parameters of rolls, such as difficulty and risk.

@@ -7,6 +7,8 @@
 - **Level**: 0 
 - **XP**: 0/4 
 - **Advances**: 0/3  
+  -> *Meditated, Learned **Lift***  
+  -> *Rested, Agenda changed to **Torch** and learned the ability **Strive*** 
 - **SCRIP**: 0 
 
 ### Hunt Information

@@ -5,8 +5,8 @@
 - **Watchsite**: 13 ("???")
 - **CAT**: 1
 - **Level**: 0
-- **XP**: 0/4
-- **Advances**: 0/3  
+- **XP**: 1/4
+- **Advances**: 1/3  
 - **SCRIP**: 0
 
 ### Hunt Information

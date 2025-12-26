@@ -8,3 +8,4 @@ Objective:
 
 Abilities:  
 ► **Psyche Jewel**: The first time a hunt you or an ally answers an anomalies' trauma question, regain 1 burst, recover 1 strain, and erase 1 stress.  
+► **Rapture**: You erase 1 stress when you gain an affliction, injury, or hook.  
