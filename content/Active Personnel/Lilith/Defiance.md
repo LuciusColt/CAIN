@@ -28,3 +28,18 @@ You can forcibly see the memories of corpses, up to a CAT number of humans or ex
 - The corpse’s mind is obligated to answer truthfully, but can only speak to the realm of its knowledge and memories before it died. It may have only partial knowledge of a situation or may speak according to its own viewpoint.
  
  Then lose the use of this power until you rest.
+
+---
+
+#### ★ **BLAST** (*Universal*)
+
+Spend a mental burst and roll MENTAL to produce a weaponized form of concentrated psychic energy in melee or short range. The specific look and feel of this basic executioner skill varies between executioner. The strength of this blast scales with CAT.
+
+When your executioner produces a blast, they might:
+
+- Imbue a slash of a blade or a shot with a ranged weapon with psychic energy.  
+- Shoot an invisible ball of force from their fingers.  
+- Fire scathing lightning.  
+- Shoot a bead of frigid fire.  
+
+Unlike your mundane service weapons, blast is a superhuman weapon and therefore scales with CAT and doesn’t become hard by default when used against anomalies.

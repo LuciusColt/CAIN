@@ -23,3 +23,18 @@ Whatever question you answer ‘yes’ on, it affects the outcome of the action 
 Release a blast of energy in a highly destructive beam. The beam goes in a straight line a range equal to CAT, piercing through walls, doors, and obstructions effortlessly. It is extremely loud and bright. Roll MENTAL for its effects, only spending a burst on success. 
 
 You may optionally lift the limiter on this ability when using it. If you do, for every ‘6’ result you roll when using ability, this ability inflicts 1 extra slash on a tag, but you also take 2 stress, which could kill you or cause you an injury. This stress cannot be reduced or ignored in any way.
+
+---
+
+#### ★ **BLAST** (*Universal*)
+
+Spend a mental burst and roll MENTAL to produce a weaponized form of concentrated psychic energy in melee or short range. The specific look and feel of this basic executioner skill varies between executioner. The strength of this blast scales with CAT.
+
+When your executioner produces a blast, they might:
+
+- Imbue a slash of a blade or a shot with a ranged weapon with psychic energy.  
+- Shoot an invisible ball of force from their fingers.  
+- Fire scathing lightning.  
+- Shoot a bead of frigid fire.  
+
+Unlike your mundane service weapons, blast is a superhuman weapon and therefore scales with CAT and doesn’t become hard by default when used against anomalies.

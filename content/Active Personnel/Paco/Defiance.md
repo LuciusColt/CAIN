@@ -35,3 +35,18 @@ You produce a strong field affecting all matter in an area about the size of a s
 - You can safely dissect any loose inanimate object or furniture into its constituent parts or reassemble any broken object, providing any parts are present. 
 
 This effect expires when the scene ends, or if you leave the area for any reason.
+
+---
+
+#### ★ **BLAST** (*Universal*)
+
+Spend a mental burst and roll MENTAL to produce a weaponized form of concentrated psychic energy in melee or short range. The specific look and feel of this basic executioner skill varies between executioner. The strength of this blast scales with CAT.
+
+When your executioner produces a blast, they might:
+
+- Imbue a slash of a blade or a shot with a ranged weapon with psychic energy.  
+- Shoot an invisible ball of force from their fingers.  
+- Fire scathing lightning.  
+- Shoot a bead of frigid fire.  
+
+Unlike your mundane service weapons, blast is a superhuman weapon and therefore scales with CAT and doesn’t become hard by default when used against anomalies.
