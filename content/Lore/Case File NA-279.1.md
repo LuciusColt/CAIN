@@ -56,6 +56,7 @@ Chen issued a formal ban on the team's presence at his establishment. He provide
 
 
 **OPERATIONAL ASSESSMENT & PERSONNEL NOTES**  
+
 The team successfully gathered all critical intelligence required to advance the investigation, demonstrating tenacity and a disturbing talent for improvisation. However, this success was achieved in spite of, not because of, their professional conduct.  
   
 - **Diplomatic Damage**: Relations with Informant FUJI are severely damaged. The Xiao family was left traumatized. Mr. Chen, a powerful local figure, was alienated, resulting in loss of access to a key location.
