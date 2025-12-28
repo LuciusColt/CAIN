@@ -5,7 +5,7 @@
 - **Watchsite**: 13 ("???")
 - **CAT**: 1
 - **Level**: 1
-- **XP**: 1/4
+- **XP**: 2/4
 - **Advances**: 1/3  
 - **SCRIP**: 0
 

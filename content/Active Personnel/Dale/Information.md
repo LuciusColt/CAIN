@@ -1,13 +1,13 @@
 ### Character Information
 ---
-- **LEGAL NAME**: Dale Orr
-- **XID**: X696
-- **Watchsite**: 69 ("???")
-- **CAT**: 1
-- **Level**: 0 
-- **XP**: 2/4 
-- **Advances**: 0/3  
-- **SCRIP**: 0
+- **LEGAL NAME**: Dale Orr  
+- **XID**: X696  
+- **Watchsite**: 69 ("???")  
+- **CAT**: 1  
+- **Level**: 1  
+- **XP**: 0/4  
+- **Advances**: 1/3  
+- **SCRIP**: 0  
 
 ### Hunt Information
 ---

@@ -4,9 +4,9 @@
 - **XID**: X256
 - **Watchsite**: 44 ("The Pit of Hell") 
 - **CAT**: 1
-- **Level**: 0
-- **XP**: 3/4
-- **Advances**: 0/3  
+- **Level**: 1
+- **XP**: 0/4
+- **Advances**: 1/3  
 - **SCRIP**: 0
 
 ### Hunt Information
