@@ -45,13 +45,9 @@ Chen issued a formal ban on the team's presence at his establishment. He provide
 **KEY INTELLIGENCE GAINED**  
 
 - Confirmation of Li Hua Xiao Mei as a probable retribution-based anomaly manifestor.
-
 - Discovery of an unreported homicide (strangled patron) directly linked to the subject's triggering event.
-
 - Identification of key associate: "Maya."
-
 - Secured Evidence: Subject's personal journal, associate's preferred cigarette brand, burner phone log.
-
 - Corporate angle via Julian Thorne, who is now a person of interest to be intercepted.
 
 
@@ -66,11 +62,8 @@ The team successfully gathered all critical intelligence required to advance the
 - **Personnel Conduct**:
     
     - **Paco Bell**: Unauthorized and culturally insensitive use of ability during informant contact. Later adopted non-regulation, unprofessional attire for infiltration.
-    
     - **Go Ku**: Use of excessive force during entry and an indiscriminate area-effect ability during hostile engagement, causing friendly injuries.
-    
     - **Lilith Belladonna**: Reckless and cruel misinformation delivered to the subject's next of kin, severely compromising the interview.
-    
     - **Johnny McGee Jr.**: Solicited and accepted unauthorized funds from a civilian.
     
 - The team's approach consistently prioritized confrontation and chaos over discretion, drawing maximum attention to a covert operation.
@@ -78,13 +71,9 @@ The team successfully gathered all critical intelligence required to advance the
 **RECOMMENDATIONS**
 
 1. **Mission Continuation**: Operation Paper Tiger, Mourning Fog is viable. The Noatmos team is to proceed: intercept Julian Thorne and pursue the investigation into the subject Li Hua's whereabouts.
-
 2. **Mandatory Training**: The Noatmos Team is to be scheduled for immediate refresher courses in **Cultural Sensitivity, Covert Infiltration, and Civilian Interview Protocols** upon mission conclusion.
-   
 3. **Disciplinary Review**: The actions of Executioners Bell, Belladonna, and McGee Jr. are to be reviewed by the Committee for potential censure or probation.
-
 4. **Handler Directive**: I will reinforce the necessity of operational security and professional decorum prior to next deployment.
-
 5. **Additional Support:** To reinforce the operational integrity and ethical grounding of the Noatmos Team, I am deploying Executioner **Sakuma Hakuba** to the scene. Hakuba's record demonstrates exceptional judgment and a firm adherence to protocol, making him an ideal candidate to provide stability and a principled framework for the ongoing mission.
 
 **SIGNED,**
