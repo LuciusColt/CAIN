@@ -69,7 +69,7 @@ The team returned to the primary safehouse but have been psychologically comprom
 
 **RECOMMENDATIONS**
 
-1. **Formal Protest**: An ethical complaint regarding Handler Fumagalli’s conduct and the wanton destruction of a high-value asset is to be filed through confidential channels.
+1. **Formal Complaint**: An ethical complaint regarding Handler Fumagalli’s conduct and the wanton destruction of a high-value asset is to be filed through confidential channels.
 2. **Compartmentalization**: Details of Morgana’s termination are to be sealed and withheld from the broader team until psychological stability can be assured. The official story for Operative █████ is **MIA in the line of duty**.
 3. **Inter-Divisional Relations**: Future liaisons with Handler Fumagalli’s command are to be considered **HIGH-RISK** and require explicit approval from a trusted Handler and vastly more detailed Rules of Engagement.
 
