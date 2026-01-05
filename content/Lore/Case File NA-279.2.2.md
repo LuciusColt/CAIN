@@ -23,7 +23,7 @@ The combined team entered the New York subway system to locate Morgana. During t
 **3. Critical Incident & Manifestation**  
 Upon rendezvous with Fumagalli’s team, one of her operatives (Designation: █████) moved to physically seize Morgana. The subject, frightened, experienced an uncontrolled activation of her abilities.
 
-**INCIDENT REPORT - MANIFESTATION**: 
+**INCIDENT REPORT - MANIFESTATION**:  
 The resultant phenomenon is described below.
 
 ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
