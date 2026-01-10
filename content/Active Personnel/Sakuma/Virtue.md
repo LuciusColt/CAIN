@@ -1,7 +1,7 @@
 ### Virtue 
 ---
 - **Virtue Name**: Justice
-- **Bond Level**: 0
+- **Bond Level**: 1
 ---
 
 ## BOND

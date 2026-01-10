@@ -3,19 +3,20 @@
 - **LEGAL NAME**: Paco Bell
 - **XID**: X497
 - **Watchsite**: 13 ("???")
-- **CAT**: 1
-- **Level**: 1
-- **XP**: 2/4
+- **CAT**: 2
+- **Level**: 4
+- **XP**: 0/4
 - **Advances**: 1/3  
-- **SCRIP**: 0
+- **SCRIP**: 6
 
 ### Hunt Information
 ---
-- **Anomalies Hunted**: 0
-	- **Success**: 0
+- **Anomalies Hunted**: 1
+	- **Success**: 1
 	- **Failure**: 0
 	- **Spared**: 0
-- **Success Rate**: 0%
+- **Success Rate**: 100%
 
 ### Advancement Breakdown
 ---
+- *Meditated, Learned **Uniform, Absurd, Utility*** -> 3 Advance

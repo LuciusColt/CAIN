@@ -1,4 +1,4 @@
-## Tension
+## Tension / ????
 ---
 
 #### **IRON SOUL** (*Passive*)
@@ -27,6 +27,14 @@ You can project a tension force of incredible strength over any edge, as obvious
 
 - Gain +1D if you are striking to protect another person. 
 - Gain +1D against immobile objects or opponents.
+
+---
+
+#### ★ **OBLITERATION** (*Instant, CAT Distance, 1/Scene*)  
+
+Remove a chunk of the living world from existence of a size up to you CAT within range. This completely erases light, heat, and organic matter as if it had never existed in the first place, Roll MENTAL for creative uses of this power. This may automatically kill mundane living beings if caught within its area of effect.
+
+Gain or grant +1D to the next roll that takes advantage of this power.
 
 ---
 

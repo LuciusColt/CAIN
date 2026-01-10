@@ -19,5 +19,5 @@
 
 ### Advancement Breakdown
 ---
-- *Meditated, Learned **Lift***  
-- *Rested, Agenda changed to **Torch** and learned the ability **Strive*** 
+- *Meditated, Learned **Lift*** -> 1 Advance 
+- *Rested, Agenda changed to **Torch** and learned the ability **Strive*** -> 1 Advance

@@ -13,6 +13,44 @@ Your clothes always change to fit you, though you cannot alter them. This doesn�
 
 ---
 
+#### ★ **UNIFORM** (*Charm, Self, Until Rest*)  
+
+You make a brief edit of yourself. You can’t do this in public (you need privacy, no matter how tenuous). This power makes you officially part of any profession or group with more than 5 members, with any necessary uniform, equipment, id cards, memberships, etc, and alters reality to make it so. 
+
+Even if people don’t particularly remember you being part of a group, they may get a vague sense that you were a member. 
+
+You don’t actually gain any particular skills and any changes you may have to be to your own person and must include things you could wear or carry in one or both hands. 
+
+Gain or grant +1D when you or any ally next acts to take advantage of this power.
+
+---
+
+#### ★ **ABSURD** (*Curse, Short, Scene*)  
+
+You swap a CAT amount of humans or executioners with a different version of themselves from an alternate timeline. You must roll MENTAL for this power to take effect on hostile targets, only spending a burst on success. This can change: 
+
+- what the target is wearing, but not holding (so anything held in hand remains the same) 
+- physical appearances of the targets, as your MIMIC power. 
+
+Targets retain their memories, and this does not alter reality to accommodate the change, so it can easily disorient unprepared humans. The change is otherwise perfect. 
+
+Gain or grant +1D when you or any ally next acts to take advantage of this power.
+
+---
+
+#### ★ **UTILITY** (*Until Rest, Short*)  
+
+When you need any mundane object, tool, or vehicle that could fit in a small room, you can cause it to appear on a surface in range as though it was always there, without spending KP. However, the admin chooses one, or two if the item is dangerous or rare: 
+
+- The item is used, dented, scuffed, or poor quality. 
+- The item is a real item that someone nearby owned and has now disappeared, and they will come looking for it. 
+- The item is ‘off’ somehow and appears as a cheap knockoff made of odd materials that feel spongey or organic. 
+- The item is missing some parts and doesn’t work as well as it could with them. 
+
+The item cannot be a unique item, etc you cannot create a particular car, key, book, etc, but is rather a generic representative of a category. It disappears after a rest.
+
+---
+
 #### ★ **COPY** (*Summon, Adjacent, Scene*)  
 
 You create a temporary, exact copy of a human, or executioner. 

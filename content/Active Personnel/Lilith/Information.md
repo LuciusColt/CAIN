@@ -19,4 +19,4 @@
 
 ### Advancement Breakdown
 ---
-- *Rested, Learned the ability **Rapture***  
+- *Rested, Learned the ability **Rapture*** -> 1 Advance 

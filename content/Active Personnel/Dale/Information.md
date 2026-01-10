@@ -3,19 +3,19 @@
 - **LEGAL NAME**: Dale Orr  
 - **XID**: X696  
 - **Watchsite**: 69 ("???")  
-- **CAT**: 1  
-- **Level**: 1  
-- **XP**: 0/4  
-- **Advances**: 1/3  
-- **SCRIP**: 0  
+- **CAT**: 2  
+- **Level**: 2  
+- **XP**: 1/4  
+- **Advances**: 2/3  
+- **SCRIP**: 6  
 
 ### Hunt Information
 ---
-- **Anomalies Hunted**: 0
-	- **Success**: 0
+- **Anomalies Hunted**: 1
+	- **Success**: 1
 	- **Failure**: 0
 	- **Spared**: 0
-- **Success Rate**: 0%
+- **Success Rate**: 100%
 
 ### Advancement Breakdown
 ---
